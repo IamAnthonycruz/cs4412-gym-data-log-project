@@ -1,0 +1,420 @@
+date,day_of_week,workout_type,exercises_list,num_exercises,num_sets,total_volume,avg_weight,avg_reps,session_duration_est,days_since_last,is_synthetic
+2024-01-01,Monday,Weakness day,"Deadlift,Cybex Lateral Raise,Rear Delt Fly",3,6,4990.0,296.0,5.333333333333333,18,0,False
+2024-01-02,Tuesday,Upper,"Smith Machine Incline Close Grip Bench Press,Supinated Wide Grip Pull-up,Panatta Chest Press (Paused),Cybex Tricep Pushdown,Cybex Preacher Curl,Hammer Curl",6,12,13705.0,147.20833333333334,7.333333333333333,36,1,False
+2024-01-04,Thursday,Legs,"Cybex Hack Squat,Barbell Row,Calf Raise,Seated Leg Curl (Paused)",4,8,4152.5,210.16666666666663,7.571428571428571,24,2,False
+2024-01-05,Friday,Bro day,"Atlantis Deltoid Press,Barbell Curl,Dumbbell Skull Crusher",3,5,1315.0,50.0,5.5,15,1,False
+2024-01-07,Sunday,Upper,"Dip,Nebula Row,Hammer Strength Incline Chest Press,Nautilus Pulldown",4,9,14575.0,246.94444444444449,6.666666666666667,27,2,False
+2024-01-08,Monday,Weakness day,"Deadlift,Cybex Lateral Raise,Rear Delt Fly",3,3,3010.0,335.0,6.666666666666667,9,1,False
+2024-01-10,Wednesday,Upper,"Smith Machine Incline Close Grip Bench Press (Paused),Supinated Wide Grip Pull-up,Panatta Chest Press,Hammer Strength Low Row,Cybex Tricep Pushdown,Cybex Preacher Curl",6,8,13890.0,237.1875,7.375,24,2,False
+2024-01-11,Thursday,Bro day,"Atlantis Deltoid Press,EZ Bar Curl,Skull Crusher,Upright Row,Nautilus Tricep Pushdown",5,8,3712.5,65.9375,6.625,24,1,False
+2024-01-13,Saturday,Upper,"Dip,Nebula Row,Hammer Strength Incline Chest Press (Paused),Nautilus Pulldown,Bayesian Curl,Overhead Extension Machine",6,13,16535.0,215.0,6.461538461538462,39,2,False
+2024-01-14,Sunday,Fun day,"Deadlift,Rear Delt Fly",2,5,6490.0,323.3333333333333,9.25,15,1,False
+2024-01-16,Tuesday,Upper,"Smith Machine Incline Press (Paused),Supinated Wide Grip Pull-up,Panatta Chest Press,Nautilus Row,Cybex Tricep Pushdown,Cybex Preacher Curl,Dumbbell Hammer Curl",7,12,15227.5,186.875,7.333333333333333,36,2,False
+2024-01-17,Wednesday,Legs,"Cybex Hack Squat,Barbell Row",2,2,4217.5,318.75,6.5,6,1,False
+2024-01-19,Friday,Bro day,"Atlantis Deltoid Press,Barbell Curl,Skull Crusher,Upright Row,Cybex Preacher Curl",5,11,3470.0,51.36363636363637,6.181818181818182,33,2,False
+2024-01-20,Saturday,Upper,"Dip,Nebula Row,Hammer Strength Incline Chest Press (Paused),Nautilus Pulldown,Bayesian Curl,Tricep Overhead Extension",6,12,17270.0,231.66666666666663,7.090909090909091,36,1,False
+2024-01-22,Monday,Upper,"Smith Machine Incline Press (Paused),Supinated Wide Grip Pull-up,Panatta Chest Press (Paused),Hammer Strength Low Row,Cybex Tricep Pushdown,Cybex Preacher Curl",6,11,12162.5,172.95454545454547,6.181818181818182,33,2,False
+2024-01-23,Tuesday,Bro day,"Atlantis Deltoid Press,EZ Bar Curl,Upright Row,Nautilus Tricep Pushdown,Cybex Preacher Curl",5,10,7010.5,84.6,8.3,30,1,False
+2024-01-25,Thursday,Upper,"Dip,Hammer Strength Incline Chest Press (Paused),Nautilus Pulldown,Paramount Overhead Extension,Bayesian Curl",5,11,17995.0,250.22727272727272,6.909090909090909,33,2,False
+2024-01-26,Friday,Fun day,Deadlift,1,2,2060.0,515.0,2.0,6,1,False
+2024-01-28,Sunday,Upper,"Smith Machine Incline Press (Paused),Supinated Wide Grip Pull-up,Panatta Chest Press (Paused),Nautilus Row,Cybex Tricep Pushdown,Cybex Preacher Curl",6,11,16835.0,215.22727272727272,7.181818181818182,33,2,False
+2024-01-29,Monday,Legs,"Cybex Hack Squat,Barbell Row,Atlantis Abductor,Seated Leg Curl,Leg Extension",5,8,10685.0,290.0,7.25,24,1,False
+2024-02-01,Thursday,Upper,"Smith Machine Incline Press (Paused),Supinated Wide Grip Pull-up,Panatta Chest Press (Paused),Nautilus Row,Cybex Tricep Pushdown,Cybex Preacher Curl",6,11,16835.0,215.22727272727272,7.181818181818182,33,3,False
+2024-02-02,Friday,Legs,"Cybex Hack Squat,Barbell Row,Atlantis Abductor,Seated Leg Curl,Leg Extension",5,8,10685.0,290.0,7.25,24,1,False
+2024-02-04,Sunday,Bro day,"Atlantis Deltoid Press,EZ Bar Curl,Dumbbell Skull Crusher,Upright Row",4,8,3881.0,73.875,6.5,24,2,False
+2024-02-05,Monday,Upper,"Dip,Nebula Row,Hammer Strength Incline Chest Press (Paused),Nautilus Pulldown,Tricep Overhead Extension Machine,Bayesian Curl",6,12,15582.5,226.45833333333331,6.545454545454546,36,1,False
+2024-02-06,Tuesday,Fun day,"Deadlift,Cybex Lateral Raise,Rear Delt Fly",3,7,9085.0,218.33333333333331,9.214285714285714,21,1,False
+2024-02-08,Thursday,Upper,"Smith Machine Incline Close Grip Bench Press,Supinated Wide Grip Pull-up,Panatta Chest Press (Paused),Hammer Strength Low Row,Cybex Tricep Pushdown,Cybex Preacher Curl",6,10,12752.5,177.2,7.4,30,2,False
+2024-02-09,Friday,Legs,"Cybex Hack Squat,Barbell Row,Atlantis Abductor,Leg Curl (Paused),Leg Extension",5,8,8852.5,290.0,7.285714285714286,24,1,False
+2024-02-11,Sunday,Bro day,"Atlantis Deltoid Press (Paused),EZ Bar Curl,Dumbbell Skull Crusher,Upright Row,Nautilus Tricep Pushdown,Cybex Preacher Curl",6,11,6756.25,92.95454545454544,7.638888888888889,33,2,False
+2024-02-12,Monday,Upper,"Hammer Strength Incline Chest Press (Paused),Nautilus Pulldown,Tricep Overhead Extension Machine",3,7,12605.0,274.6428571428572,6.571428571428571,21,1,False
+2024-02-13,Tuesday,Upper,"Smith Machine Incline Press,Supinated Wide Grip Pull-up,Panatta Chest Press (Paused),Cybex Eagle Row,Cybex Tricep Pushdown",5,8,8662.5,185.25,7.428571428571429,24,1,False
+2024-02-15,Thursday,Bro day,"Atlantis Deltoid Press,EZ Bar Curl,Nautilus Tricep Pushdown,Upright Row,Dumbbell Skull Crusher",5,11,9527.5,93.1818181818182,9.818181818181818,33,2,False
+2024-02-16,Friday,Upper,"Cambered Bar Bench Press,Nebula Row,Hammer Strength Incline Chest Press (Paused),Nautilus Pulldown,Tricep Overhead Extension Machine,Bayesian Curl",6,14,17682.5,201.25,7.0,42,1,False
+2024-02-17,Saturday,Upper back and shoulders,"Deadlift,Shrug,Cybex Lateral Raise,Icarian Lateral Raise",4,6,9845.0,225.83333333333331,8.5,18,1,False
+2024-02-19,Monday,Upper,"Smith Machine Close Grip Bench Press,Supinated Wide Grip Pull-up,Panatta Chest Press (Paused),Cybex Eagle Row (Paused),Cybex Tricep Pushdown,Cybex Preacher Curl",6,11,15573.5,163.4181818181818,9.2,33,2,False
+2024-02-20,Tuesday,Legs,"Heels Elevated Safety Squat Bar Squat (Paused),Barbell Row,Leg Extension,Leg Curl (Paused),Atlantis Abductor",5,8,10390.0,235.83333333333331,9.285714285714286,24,1,False
+2024-02-22,Thursday,Bro day,"Atlantis Deltoid Press (Paused),Barbell Curl,Nautilus Tricep Pushdown",3,5,3545.0,81.5,10.8,15,2,False
+2024-02-23,Friday,Upper,"Barbell Bench Press (Paused),Nautilus Single Arm Pulldown,Hammer Strength Incline Chest Press (Paused),Cybex Single Arm Eagle Row,Super ROM Dip,Tricep Overhead Extension,Bayesian Curl",7,14,23884.7,201.85384615384612,9.071428571428571,42,1,False
+2024-02-24,Saturday,Upper,"Smith Machine Incline Close Grip Bench Press,Wide Grip Lat Pulldown,Panatta Chest Press (Paused),Neutral Grip Pull-up,Cybex Tricep Pushdown,Cybex Preacher Curl",6,11,14006.25,180.63636363636363,8.8125,33,1,False
+2024-02-26,Monday,Back and shoulders,"Extreme Row,Cybex Lateral Raise",2,3,1790.0,224.16666666666663,5.0,9,2,False
+2024-02-27,Tuesday,Bro day,"EZ Bar Curl,Nautilus Tricep Pushdown",2,4,2902.5,70.625,12.0,12,1,False
+2024-03-01,Friday,Upper,"Smith Machine Bench Press (Paused),Nautilus Pulldown,Hammer Strength Incline Chest Press (Paused),Cybex Eagle Row,Super ROM Dip,Bayesian Curl,Tricep Overhead Extension",7,14,16756.0,204.23076923076923,7.769230769230769,42,3,False
+2024-03-03,Sunday,Legs,"Cybex Hack Squat,Barbell Row,Leg Extension,Atlantis Abductor,Smith Machine Incline Close Grip Bench Press,Supinated Wide Grip Pulldown,Panatta Chest Press (Paused),Cybex Tricep Pushdown,Deadlift,Romanian Deadlift (Paused),Extreme Row,Rear Delt Fly",12,23,34267.5,244.97727272727272,7.857142857142857,69,2,False
+2024-03-04,Monday,Bro day,"EZ Bar Curl,Nautilus Tricep Pushdown,Dumbbell Skull Crusher (Paused),Upright Row",4,8,4660.9,68.453125,9.125,24,1,False
+2024-03-06,Wednesday,Upper,"Leverage Chest Press,Nautilus Single Arm Pulldown,Hammer Strength Incline Chest Press (Paused),Cybex Single Arm Eagle Row,Super ROM Dip,Overhead Extension Machine,Bayesian Curl",7,12,18794.8,201.98333333333332,8.090909090909092,36,2,False
+2024-03-08,Friday,Legs,"Cybex Hack Squat,Barbell Row,Leg Extension,Cybex Lateral Raise,Leg Curl (Paused),Nebula Abductor",6,11,11655.0,272.22222222222223,4.818181818181818,33,2,False
+2024-03-09,Saturday,Chest and arms,"Smith Machine Incline Press (Paused),Cybex Preacher Curl,Cybex Tricep Pushdown,Icarian Lateral Raise",4,13,12095.0,162.8846153846154,7.166666666666667,39,1,False
+2024-03-11,Monday,Back,"Supinated Wide Grip Pull-up,Extreme Row",2,3,2300.0,182.5,10.0,9,2,False
+2024-03-13,Wednesday,Arms,"EZ Bar Curl,Nautilus Single Arm Tricep Pushdown,JM Press,Upright Row",4,9,6395.0,107.22222222222224,7.777777777777778,27,2,False
+2024-03-14,Thursday,Upper,"Leverage Chest Press,Nautilus Single Arm Pulldown,Hammer Strength Incline Chest Press,Cybex Single Arm Eagle Row,Dip,Bayesian Curl,Overhead Extension Machine",7,12,22493.5,209.39166666666665,9.166666666666666,36,1,False
+2024-03-16,Saturday,Legs,"Cybex Hack Squat,Barbell Row,Leg Extension,Cybex Lateral Raise,Leg Curl (Paused)",5,10,12382.5,274.6875,5.7,30,2,False
+2024-03-17,Sunday,Chest and arms,"Smith Machine Incline Close Grip Bench Press (Paused),Cybex Preacher Curl,Panatta Chest Press (Paused),Cybex Tricep Pushdown,Icarian Lateral Raise (Super ROM)",5,13,12345.0,145.19230769230768,8.333333333333334,39,1,False
+2024-03-19,Tuesday,Back,"Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up,Rear Delt Fly",4,6,9695.0,200.0,8.666666666666666,18,2,False
+2024-03-21,Thursday,Bro day,"Barbell Curl,Nautilus Tricep Pushdown,Smith Machine JM Press (Paused),Smith Machine Upright Row,Rope Hammer Curl",5,10,6105.0,77.75,9.4,30,2,False
+2024-03-22,Friday,Upper,"Nautilus Single Arm Pulldown,Super ROM Dip,Cybex Single Arm Eagle Row,Tricep Overhead Extension,Bayesian Curl",5,14,25941.7,215.25714285714284,9.142857142857142,42,1,False
+2024-03-24,Sunday,Legs,"Cybex Hack Squat,Barbell Row,Strive Leg Extension,Leg Curl (Paused),Cybex Lateral Raise,Atlantis Abductor",6,13,15697.5,242.91666666666663,5.615384615384615,39,2,False
+2024-03-26,Tuesday,Chest and arms,"Panatta Chest Press (Paused),Cybex Preacher Curl,Flex Incline Fly,Cybex Tricep Pushdown,Icarian Lateral Raise (Super ROM),EZ Bar Skull Crusher",6,14,14655.0,124.64285714285714,9.428571428571429,42,2,False
+2024-03-27,Wednesday,Back,"Deadlift,Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up",4,7,10112.5,190.3571428571429,8.142857142857142,21,1,False
+2024-03-29,Friday,Bro day,"EZ Bar Curl,Nautilus Tricep Pushdown,JM Press (Paused),Upright Row",4,8,4822.5,82.5,9.0,24,2,False
+2024-04-01,Monday,Upper,"Nautilus Single Arm Pulldown,Super ROM Dip,Cybex Single Arm Eagle Row,Tricep Overhead Extension,Bayesian Curl",5,14,25941.7,215.25714285714284,9.142857142857142,42,3,False
+2024-04-02,Tuesday,Legs,"Cybex Hack Squat,Barbell Row,Strive Leg Extension,Leg Curl (Paused),Cybex Lateral Raise,Atlantis Abductor",6,13,15697.5,242.91666666666663,5.615384615384615,39,1,False
+2024-04-03,Wednesday,Chest and arms,"Panatta Chest Press (Paused),Cybex Preacher Curl,Flex Incline Fly,Cybex Tricep Pushdown,Icarian Lateral Raise (Super ROM),EZ Bar Skull Crusher",6,14,14655.0,124.64285714285714,9.428571428571429,42,1,False
+2024-04-04,Thursday,Back,"Deadlift,Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up",4,7,10112.5,190.3571428571429,8.142857142857142,21,1,False
+2024-04-05,Friday,Bro day,"EZ Bar Curl,Nautilus Tricep Pushdown,JM Press (Paused),Upright Row",4,8,4822.5,82.5,9.0,24,1,False
+2024-04-06,Saturday,Upper,"Hammer Strength Incline Chest Press (Paused),Nautilus Pulldown,Super ROM Dip,Cybex Eagle Row,Tricep Overhead Extension Machine,Bayesian Curl",6,14,25170.8,194.553846,10.107142857142858,42,1,False
+2024-04-07,Sunday,Legs,"Cybex Hack Squat,Barbell Row,Strive Leg Extension,Atlantis Abductor",4,6,8250.0,265.8333333333333,6.0,18,1,False
+2024-04-08,Monday,Chest and arms,"Panatta Chest Press (Paused),Cybex Preacher Curl,Incline Fly,Cybex Tricep Pushdown,Lateral Raise (Super ROM)",5,14,17012.5,136.07142857142858,9.285714285714286,42,1,False
+2024-04-10,Wednesday,Back,"Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up",3,6,9040.0,157.5,9.5,18,2,False
+2024-04-11,Thursday,Arms,"EZ Bar Curl,Nautilus Tricep Pushdown,Upright Row,JM Press (Paused),Rope Hammer Curl",5,11,8922.5,96.5909090909091,9.909090909090908,33,1,False
+2024-04-12,Friday,Upper,"Smith Press (Paused),Nautilus Pulldown,Super ROM Dip,Cybex Single Arm Row,Tricep Overhead Extension,Bayesian Curl",6,17,22030.9,178.48125,8.0,51,1,False
+2024-04-13,Saturday,Legs,"Cybex Hack Squat,Barbell Row,Strive Leg Extension,Leg Curl (Paused),Icarian Lateral Raise (Super ROM)",5,12,14005.0,213.4090909090909,6.916666666666667,36,1,False
+2024-04-14,Sunday,Chest and arms,"Panatta Chest Press (Paused),Cybex Single Arm Preacher Curl,Flex Incline Fly,Forward Grip Pushdown,Cybex Lateral Raise",5,13,15515.0,156.73076923076923,8.384615384615385,39,1,False
+2024-04-15,Monday,Back,"Romanian Deadlift (Paused),Supinated Wide Grip Pulldown,Strive Row",3,6,11310.0,246.66666666666663,8.5,18,1,False
+2024-04-16,Tuesday,Bro day,"EZ Bar Curl,Nautilus Tricep Pushdown,JM Press (Paused),Upright Row,Rope Hammer Curl,Hammer Strength Single Arm Extension",6,12,9317.5,83.41666666666667,10.416666666666666,36,1,False
+2024-04-17,Wednesday,Upper,"AFS Smith Incline Press (Paused),Nautilus Single Arm Pulldown,Super ROM Dip,Cybex Single Arm Eagle Row,Overhead Extension,Bayesian Curl",6,15,21025.2,171.49285714285716,9.066666666666666,45,1,False
+2024-04-18,Thursday,Legs,"Cybex Hack Squat,Barbell Row,Strive Leg Extension,Seated Leg Curl (Paused),Icarian Lateral Raise",5,9,9950.0,190.625,7.666666666666667,27,1,False
+2024-04-20,Saturday,Chest and arms,"Panatta Chest Press (Paused),Cybex Preacher Curl,Flex Incline Fly,Tricep Pushdown,Cybex Lateral Raise,EZ Bar Skull Crusher",6,17,18547.5,138.08823529411765,9.0,51,2,False
+2024-04-21,Sunday,Back,"Romanian Deadlift (Paused),Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up,Rear Delt Fly",5,11,15335.0,188.63636363636363,8.0,33,1,False
+2024-04-22,Monday,Bro day,"EZ Bar Curl,Nautilus Tricep Pushdown,Upright Row,JM Press (Paused),Rope Hammer Curl",5,12,8437.5,100.0,10.5,36,1,False
+2024-04-23,Tuesday,Upper,"AFS Smith Incline Press (Paused),Nautilus Single Arm Pulldown,Dip,Cybex Single Arm Eagle Row,Overhead Extension,Bayesian Curl",6,16,20732.5,180.89285714285717,8.5,48,1,False
+2024-04-24,Wednesday,Legs,"Cybex Hack Squat,Barbell Row,Strive Leg Extension,Icarian Lateral Raise,Leg Curl (Paused),Atlantis Abductor",6,13,13670.0,240.45454545454547,6.230769230769231,39,1,False
+2024-04-25,Thursday,Chest and arms,"Panatta Chest Press (Paused),Cybex Preacher Curl,Flex Incline Fly,Forward Grip Pushdown,Cybex Lateral Raise",5,16,19317.5,151.40625,8.4375,48,1,False
+2024-04-26,Friday,Back,"Romanian Deadlift (Paused),Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up,Rear Delt Fly",5,10,16155.0,211.25,9.11111111111111,30,1,False
+2024-04-27,Saturday,Bro day,"EZ Bar Curl,Nautilus Tricep Pushdown,Upright Row,JM Press (Paused),Hammer Strength Extension",5,11,8725.0,97.27272727272728,12.555555555555555,33,1,False
+2024-04-28,Sunday,Upper,AFS Smith Incline Press (Paused),1,1,517.5,172.5,3.0,3,1,False
+2024-05-01,Wednesday,Upper,"AFS Smith Incline Press (Paused),Nautilus Single Arm Pulldown,Dip,Cybex Single Arm Eagle Row,Overhead Extension,Bayesian Curl",6,16,20732.5,180.89285714285717,8.5,48,3,False
+2024-05-02,Thursday,Legs,"Cybex Hack Squat,Barbell Row,Strive Leg Extension,Icarian Lateral Raise,Leg Curl (Paused),Atlantis Abductor",6,13,13670.0,240.45454545454547,6.230769230769231,39,1,False
+2024-05-03,Friday,Chest and arms,"Panatta Chest Press (Paused),Cybex Preacher Curl,Flex Incline Fly,Forward Grip Pushdown,Cybex Lateral Raise",5,16,19317.5,151.40625,8.4375,48,1,False
+2024-05-04,Saturday,Back,"Romanian Deadlift (Paused),Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up,Rear Delt Fly",5,10,16155.0,211.25,9.11111111111111,30,1,False
+2024-05-06,Monday,Bro day,"EZ Bar Curl,Nautilus Tricep Pushdown,Upright Row,JM Press (Paused),Hammer Strength Extension",5,11,8725.0,97.27272727272728,12.555555555555555,33,2,False
+2024-05-07,Tuesday,Upper,"AFS Smith Incline Press (Paused),Dip,Cybex Single Arm Eagle Row,Tricep Overhead Extension,Bayesian Curl",5,17,21517.8,218.0,8.46875,51,1,False
+2024-05-08,Wednesday,Legs,"Strive Leg Extension,Icarian Lateral Raise,Leg Curl (Paused),Abductor",4,11,10040.0,182.5,7.363636363636363,33,1,False
+2024-05-09,Thursday,Chest and arms,"Panatta Chest Press (Paused),Flex Incline Fly,Forward Grip Pushdown,Cybex Lateral Raise,Skull Crusher",5,14,15295.0,161.25,8.714285714285714,42,1,False
+2024-05-11,Saturday,Back,"Romanian Deadlift (Paused),Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up,Rear Delt Fly",5,11,16255.0,204.77272727272728,8.5,33,2,False
+2024-05-12,Sunday,Bro day,"Nautilus Tricep Pushdown,JM Press (Paused),Cybex Preacher Curl",3,6,4020.0,80.0,8.833333333333334,18,1,False
+2024-05-13,Monday,Upper,"AFS Smith Incline Press,Dip,Nautilus Single Arm Pulldown,Cybex Eagle Row,Tricep Overhead Extension,Bayesian Curl",6,17,24384.25,204.2866666666667,8.676470588235293,51,1,False
+2024-05-14,Tuesday,Legs,"Cybex Hack Squat,Barbell Row,Leg Curl (Paused),Leg Extension,Icarian Lateral Raise",5,11,8285.0,238.2142857142857,6.2727272727272725,33,1,False
+2024-05-16,Thursday,Chest and arms,"Panatta Chest Press (Paused),EZ Bar Curl,Incline Fly,Forward Grip Pushdown,Cybex Lateral Raise,Skull Crusher (Paused)",6,17,19357.5,145.0,9.588235294117649,51,2,False
+2024-05-17,Friday,Back,"Romanian Deadlift (Paused),Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up",4,8,9790.0,233.75,6.571428571428571,24,1,False
+2024-05-18,Saturday,Bro day,"Nautilus Tricep Pushdown,JM Press (Paused),Cybex Preacher Curl",3,6,4230.0,80.41666666666667,9.5,18,1,False
+2024-05-19,Sunday,Upper,"AFS Smith Incline Press (Paused),Dip,Nautilus Single Arm Pulldown,Cybex Single Arm Eagle Row,Tricep Overhead Extension,Bayesian Curl",6,18,21812.0,194.56666666666663,7.666666666666667,54,1,False
+2024-05-21,Tuesday,Legs,"Cybex Hack Squat,Barbell Row,Strive Leg Extension,Icarian Lateral Raise (Super ROM),Leg Curl (Paused),Abductor",6,14,14702.5,213.61111111111111,7.571428571428571,42,2,False
+2024-05-22,Wednesday,Chest and arms,"Strive Chest Press (Paused),EZ Bar Curl,Incline Fly,Forward Grip Tricep Pushdown,Skull Crusher",5,11,10427.5,124.54545454545456,9.454545454545457,33,1,False
+2024-05-23,Thursday,Back,"Supinated Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up,Rear Delt Fly",4,7,9447.5,172.5,8.428571428571429,21,1,False
+2024-05-24,Friday,Bro day,"Nautilus Tricep Pushdown,JM Press (Paused),Cybex Preacher Curl,Rope Hammer Curl,Cybex Lateral Raise",5,12,11265.0,140.41666666666666,7.583333333333333,36,1,False
+2024-05-26,Sunday,Upper,"AFS Incline Press,Nautilus Single Arm Pulldown,Cybex Single Arm Row,Tricep Overhead Extension",4,10,12520.0,264.0625,6.3,30,2,False
+2024-05-27,Monday,Legs,"Cybex Hack Squat,Romanian Deadlift (Paused),Strive Leg Extension,Leg Curl,Abductor,Icarian Lateral Raise",6,13,16265.0,263.8636363636364,6.846153846153846,39,1,False
+2024-05-28,Tuesday,Chest and arms,"Strive Chest Press (Paused),Seated Dumbbell Bicep Curl,Seated Dumbbell Overhead Press,Forward Grip Pushdown,Incline Fly",5,15,12850.0,105.33333333333331,8.866666666666667,45,1,False
+2024-05-29,Wednesday,Back,"Freemotion Pulldown,Strive Row,Neutral Grip Pull-up",3,5,6650.0,191.5,7.0,15,1,False
+2024-06-01,Saturday,Bro day,"Nautilus Tricep Pushdown,JM Press (Paused),Cybex Preacher Curl,Rope Hammer Curl,Cybex Lateral Raise",5,12,11265.0,140.41666666666666,7.583333333333333,36,3,False
+2024-06-02,Sunday,Upper,"AFS Incline Press,Nautilus Single Arm Pulldown,Cybex Single Arm Row,Tricep Overhead Extension",4,10,12520.0,264.0625,6.3,30,1,False
+2024-06-03,Monday,Legs,"Cybex Hack Squat,Romanian Deadlift (Paused),Strive Leg Extension,Leg Curl,Abductor,Icarian Lateral Raise",6,13,16265.0,263.8636363636364,6.846153846153846,39,1,False
+2024-06-04,Tuesday,Chest and arms,"Strive Chest Press (Paused),Seated Dumbbell Bicep Curl,Seated Dumbbell Overhead Press,Forward Grip Pushdown,Incline Fly",5,15,12850.0,105.33333333333331,8.866666666666667,45,1,False
+2024-06-05,Wednesday,Back,"Freemotion Pulldown,Strive Row,Neutral Grip Pull-up",3,5,6650.0,191.5,7.0,15,1,False
+2024-06-06,Thursday,Bro day,"Nautilus Single Arm Tricep Pushdown,JM Press (Paused),Cybex Preacher Curl,Cybex Lateral Raise,Rope Hammer Curl,Upright Row,Hammer Strength Crunch",7,16,13232.5,111.40625,9.25,48,1,False
+2024-06-07,Friday,Upper,"AFS Smith Incline Press (Paused),Dip,Nautilus Single Arm Pulldown,Cybex Single Arm Eagle Row,Tricep Overhead Extension",5,12,12110.0,202.22222222222223,6.958333333333333,36,1,False
+2024-06-08,Saturday,Legs,"Cybex Hack Squat,Romanian Deadlift",2,5,9840.0,371.5,5.4,15,1,False
+2024-06-10,Monday,Chest and arms,"Dumbbell Bicep Curl,Dumbbell Overhead Press,Forward Grip Pushdown,Incline Fly",4,12,10745.0,84.16666666666667,10.416666666666666,36,2,False
+2024-06-11,Tuesday,Back,"Deadlift,Freemotion Pulldown,Strive Row,Neutral Grip Pull-up,Rear Delt Fly",5,10,15557.5,238.75,6.8,30,1,False
+2024-06-12,Wednesday,Bro day,"Nautilus Tricep Pushdown,Cybex Preacher Curl,Cybex Lateral Raise,Cable Hammer Curl,Hammer Strength Crunch,Flex Hip Flexor",6,13,12480.0,116.15384615384616,9.23076923076923,39,1,False
+2024-06-13,Thursday,Upper,"AFS Incline Press,Dip,Nautilus Single Arm Pulldown,Cybex Single Arm Row,Bayesian Curl,Skull Crusher",6,13,14176.0,136.625,9.307692307692308,39,1,False
+2024-06-14,Friday,Legs,"Cybex Hack Squat,Romanian Deadlift (Paused),Leg Curl (Paused),Abductor,Icarian Lateral Raise (Super ROM)",5,16,16085.0,224.16666666666663,6.5,48,1,False
+2024-06-15,Saturday,Chest and arms,"Strive Chest Press (Paused),Dumbbell Bicep Curl,Dumbbell Overhead Press,Forward Grip Pushdown,Incline Fly,Reverse Curl",6,15,14707.5,119.66666666666669,9.066666666666666,45,1,False
+2024-06-16,Sunday,Back,"Deadlift,Freemotion Pulldown,Strive Row,Neutral Grip Pull-up,Nautilus Neutral Grip Seated Row",5,10,12045.0,231.75,6.4,30,1,False
+2024-06-17,Monday,Bro day,"Nautilus Tricep Pushdown,Cybex Preacher Curl,Cybex Lateral Raise,Cable Hammer Curl,Upright Row,Hammer Strength Crunch",6,11,10980.0,102.95454545454544,11.818181818181818,33,1,False
+2024-06-18,Tuesday,Upper,"AFS Incline Press,Dip,Nautilus Single Arm Pulldown,Cybex Single Arm Eagle Row,Skull Crusher (Paused),Bayesian Curl",6,16,20126.25,145.16666666666666,10.833333333333334,48,1,False
+2024-06-20,Thursday,Legs,"Cybex Hack Squat,Romanian Deadlift (Paused),Strive Leg Extension,Icarian Lateral Raise (Super ROM),Abductor",5,11,12810.0,248.61111111111111,6.909090909090909,33,2,False
+2024-06-21,Friday,Chest and arms,"Strive Chest Press (Paused),Dumbbell Bicep Curl,Dumbbell Overhead Press,Forward Grip Pushdown,Chest Fly,Reverse Curl",6,15,11862.5,110.5,7.666666666666667,45,1,False
+2024-06-22,Saturday,Back,"Deadlift,Freemotion Pulldown,Strive Row,Neutral Grip Pull-up,Nautilus Neutral Grip Row,Rear Delt Fly",6,12,15958.0,225.08333333333331,7.083333333333333,36,1,False
+2024-06-23,Sunday,Bro day,"JM Press (Paused),Barbell Preacher Curl,Cybex Lateral Raise,Cable Hammer Curl,Rope Overhead Extension,Upright Row,Hammer Strength Crunch",7,9,7030.0,113.61111111111111,8.555555555555555,27,1,False
+2024-06-24,Monday,Upper,"AFS Smith Incline Press,Dip,Nautilus Single Arm Pulldown,Cybex Single Arm Row,Skull Crusher (Paused),Bayesian Curl",6,13,16855.5,140.58333333333334,10.307692307692308,39,1,False
+2024-06-25,Tuesday,Legs,"Cybex Hack Squat,Romanian Deadlift (Paused),Strive Leg Extension,Leg Curl (Paused),Abductor",5,9,7075.0,334.5,4.888888888888889,27,1,False
+2024-06-26,Wednesday,Chest and arms,"Strive Chest Press (Paused),Dumbbell Bicep Curl,Dumbbell Overhead Press,Forward Grip Pushdown,Incline Fly",5,12,13155.0,144.16666666666666,8.166666666666666,36,1,False
+2024-06-27,Thursday,Back,"Freemotion Pulldown,Strive Row,Neutral Grip Pull-up,Nautilus Neutral Grip Seated Row,Rear Delt Fly",5,10,11110.25,154.3,7.95,30,1,False
+2024-06-28,Friday,Bro day,"Nautilus Tricep Pushdown,JM Press (Paused),Barbell Preacher Curl,Cybex Lateral Raise,Upright Row,Hammer Strength Crunch",6,16,12557.5,96.0,10.033333333333331,48,1,False
+2024-07-01,Monday,Upper,"AFS Smith Incline Press,Dip,Nautilus Pulldown,Cybex Single Arm Row,Bayesian Curl,Skull Crusher (Paused)",6,13,14585.0,141.125,10.23076923076923,39,3,False
+2024-07-02,Tuesday,Legs,"Cybex Hack Squat,Romanian Deadlift (Paused),Strive Leg Extension,Leg Extension,Leg Curl (Paused),Icarian Lateral Raise (Super ROM),Abductor",7,10,8910.0,267.0833333333333,6.0,30,1,False
+2024-07-04,Thursday,Chest and arms,"Strive Chest Press (Paused),Dumbbell Bicep Curl,Dumbbell Overhead Press,Forward Grip Tricep Pushdown,Incline Fly,Reverse Curl",6,14,14815.0,127.67857142857144,9.285714285714286,42,2,False
+2024-07-05,Friday,Back,"Deadlift,Freemotion Pulldown,Strive Row,Neutral Grip Pull-up,Cable Lat Row",5,11,14681.5,218.9090909090909,6.909090909090909,33,1,False
+2024-07-06,Saturday,Bro day,"Nautilus Tricep Pushdown,JM Press (Paused),Cybex Lateral Raise,Cable Hammer Curl,Rope Overhead Extension,Upright Row,Hammer Strength Crunch,Ab Curl",8,15,12175.0,112.5,8.866666666666667,45,1,False
+2024-07-08,Monday,Upper,"AFS Smith Incline Press,Dip,Nautilus Single Arm Pulldown,Cybex Row,Bayesian Curl",5,11,11905.0,161.45,8.363636363636363,33,2,False
+2024-07-09,Tuesday,Legs,"Cybex Hack Squat,Romanian Deadlift (Paused)",2,4,7375.0,366.875,5.0,12,1,False
+2024-07-10,Wednesday,Chest and arms,"Strive Chest Press (Paused),Dumbbell Bicep Curl,Dumbbell Overhead Press,Forward Grip Tricep Pushdown,Incline Fly",5,12,13475.0,146.45833333333334,8.0,36,1,False
+2024-07-12,Friday,Back,"Deadlift,Freemotion Pulldown,Strive Row,Neutral Grip Pull-up,Neutral Grip Cable Row",5,10,9577.0,201.3,6.4,30,2,False
+2024-07-13,Saturday,Bro day,"Supported Single Arm Tricep Pushdown,JM Press (Paused),Preacher Curl,Hammer Curl,Cybex Lateral Raise",5,11,7092.5,98.0,7.772727272727272,33,1,False
+2024-07-14,Sunday,Upper,"AFS Smith Incline Press,Dip,Nautilus Single Arm Pulldown,Cybex Single Arm Row,Bayesian Curl,Overhead Extension,Barbell Curl",7,15,14023.5,122.64285714285714,8.733333333333333,45,1,False
+2024-07-16,Tuesday,Legs,"Cybex Hack Squat,Romanian Deadlift (Paused),Strive Leg Extension,Leg Curl,Icarian Lateral Raise",5,8,11532.5,337.9166666666667,6.0,24,2,False
+2024-07-17,Wednesday,Chest and arms,"Strive Chest Press (Paused),Preacher Curl,Dumbbell Overhead Press,Tricep Pushdown,Incline Fly,Reverse Curl",6,14,11897.5,121.78571428571428,8.333333333333334,42,1,False
+2024-07-18,Thursday,Back,"Deadlift,Freemotion Pulldown,Strive Row,Neutral Grip Pull-up,Cable Lat Row",5,11,12734.0,234.0,6.454545454545454,33,1,False
+2024-07-20,Saturday,Bro day,"Single Arm Tricep Pushdown,JM Press (Paused),Dumbbell Bicep Curl,Rope Hammer Curl,Upright Row,Nautilus Crunch",6,12,9852.5,86.45833333333333,10.833333333333334,36,2,False
+2024-07-21,Sunday,Upper,"AFS Smith Incline Press,Dip,Nautilus Pulldown,Cybex Row,Bayesian Curl,Overhead Extension,Barbell Curl",7,12,12593.0,116.3181818181818,10.416666666666666,36,1,False
+2024-07-22,Monday,Legs,"Cybex Hack Squat,Seated Leg Curl (Paused),Strive Leg Extension,Icarian Lateral Raise,Abductor",5,11,13997.0,297.22222222222223,5.709090909090909,33,1,False
+2024-07-24,Wednesday,Chest and arms,"Strive Chest Press (Paused),Dumbbell Overhead Press,Preacher Curl,Forward Grip Tricep Pushdown,Incline Fly",5,12,14310.0,142.91666666666666,8.583333333333334,36,2,False
+2024-07-25,Thursday,Back,"Freemotion Pulldown,Strive Row,Neutral Grip Pull-up,Cable Row,Rear Delt Fly",5,10,9665.5,158.05555555555554,7.7,30,1,False
+2024-07-26,Friday,Bro day,"Single Arm Rope Pushdown,Cybex Lateral Raise,Rope Hammer Curl",3,6,5575.0,128.33333333333334,9.333333333333334,18,1,False
+2024-07-28,Sunday,Upper,"Smith Machine Incline Press,Dip,Nautilus Single Arm Pulldown,Cybex Single Arm Row,Bayesian Curl",5,17,14887.5,161.875,8.8,51,2,False
+2024-07-29,Monday,Legs,"Cybex Hack Squat,Seated Leg Curl (Paused),Strive Row",3,6,4477.5,293.75,5.5,18,1,False
+2024-08-01,Thursday,Chest and arms,"Strive Chest Press (Paused),Dumbbell Overhead Press,Preacher Curl,JM Press (Paused),Incline Fly,Single Arm Tricep Pushdown,Ab Crunch,Reverse Curl",8,15,11452.5,107.5,8.466666666666667,45,3,False
+2024-08-03,Saturday,Back,"Deadlift,Freemotion Pulldown,Strive Row,Neutral Grip Pull-up,Lat Row",5,10,13568.5,244.5,7.1,30,2,False
+2024-08-05,Monday,Upper,"Dip,Incline Bench Press (Paused),Behind The Neck Press,Strive Row,Bayesian Curl",5,15,8165.0,110.71428571428572,7.769230769230769,45,2,False
+2024-08-07,Wednesday,Legs,"Cybex Hack Squat,Leg Curl,Lateral Raise,Calf Press,Leg Extension,Leg Raise",6,12,14462.5,297.27272727272725,5.0,36,2,False
+2024-08-09,Friday,Chest and arms,"Strive Chest Press (Paused),Dumbbell Shoulder Press,JM Press (Paused),Preacher Curl,Single Arm Tricep Pushdown",5,10,5097.5,115.5,6.777777777777778,30,2,False
+2024-08-10,Saturday,Back,"Deadlift,Wide Grip Pulldown,Strive Low Row,Neutral Grip Pull-up,Cable Row,Rear Delt Fly",6,11,12367.5,233.6818181818182,5.454545454545454,33,1,False
+2024-08-12,Monday,Legs,"Tricep Pushdown,Rope Hammer Curl,Upright Row,Ab Crunch,Cybex Leg Press (Paused),Single Leg Curl,Calf Press",7,10,15615.0,212.25,8.6,30,2,False
+2024-08-14,Wednesday,Upper,"Dip,Strive Incline Press (Paused),Behind The Neck Press,4PPs+10/5 3PPs+10/12 cybex row,Strive Row,Bayesian Curl",6,15,10165.0,130.19230769230768,8.538461538461538,45,2,False
+2024-08-16,Friday,Legs,"Cybex Hack Squat,Romanian Deadlift (Paused),Strive Leg Extension,Calf Raise,Leg Curl,Leg Raise,Abductor,Lateral Raise,Rear Delt Fly",9,14,26177.5,285.7692307692308,6.5,42,2,False
+2024-08-18,Sunday,Upper,"Strive Chest Press (Paused),Dumbbell Shoulder Press,Close Grip Bench Press (Paused),Preacher Curl,Tricep Pushdown",5,8,5655.0,116.5625,7.375,24,2,False
+2024-08-20,Tuesday,Back,"Deadlift,Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up,Cable Row",5,11,12156.0,232.3181818181818,6.636363636363637,33,2,False
+2024-08-21,Wednesday,Upper,"Strive Incline Press (Paused),Klokov Press,Dip,Nautilus Single Arm Pulldown,Cybex Eagle Row,Strive Row,Bayesian Curl",7,15,15097.5,151.92307692307693,8.857142857142858,45,1,False
+2024-08-23,Friday,Lower,"Cybex Leg Press (Paused),Leg Curl,Calf Press,Strive Leg Extension",4,6,11732.5,603.125,6.833333333333333,18,2,False
+2024-08-25,Sunday,Chest and arms,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press (Paused),Preacher Curl,Single Arm Tricep Pushdown",5,10,7182.5,115.0,7.6,30,2,False
+2024-08-27,Tuesday,Back,"Wide Grip Pulldown,Strive Row,Neutral Grip Pull-up",3,6,7062.5,205.41666666666663,6.0,18,2,False
+2024-08-29,Thursday,Legs,Cybex Hack Squat,1,1,1570.0,392.5,4.0,3,2,False
+2024-09-01,Sunday,Upper 1,"Strive Incline Press (Paused),Klokov Press,Dip,Nautilus Single Arm Pulldown,Cybex Mid Row,Cable Hammer Curl,Shrug",7,17,17821.5,136.6875,8.625,51,3,False
+2024-09-02,Monday,Lower 1,"Cybex Leg Press (Paused),Lying Leg Curl,Calf Press,Leg Raise,Lateral Raise,Rear Delt Fly,Single Leg Extension",7,12,18962.5,278.3333333333333,6.25,36,1,False
+2024-09-04,Wednesday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press (Paused),Neutral Grip Pull-up,Strive Low Row,Kelso Shrug,Preacher Curl,Tricep Pushdown",8,13,10521.7,146.256385,6.583333333333333,39,2,False
+2024-09-05,Thursday,Lower 2,"Deadlift,Belt Squat,Upright Row,Leg Raise,Hip Thrust,Strive Leg Extension,Single Leg Curl",7,11,19587.5,273.75,8.181818181818182,33,1,False
+2024-09-07,Saturday,Upper 3,"Dumbbell Bench Press,Nautilus Shoulder Press,Panatta Close Grip Press (Paused),Wide Grip Pulldown,Hammer Strength Low Row,Supported Tricep Pushdown,Bayesian Curl,Reverse Curl,Shrug,Neck Curl,Nautilus Crunch",11,19,23780.0,162.5,8.473684210526315,57,2,False
+2024-09-08,Sunday,Lower 3,"Cybex Hack Squat,Romanian Deadlift (Paused),Leg Extension,Calf Press,Lateral Raise,Rear Delt Fly,Leg Raise,Abductor,Seated Leg Curl",9,14,14997.5,254.25,5.857142857142857,42,1,False
+2024-09-10,Tuesday,Upper 1,"Strive Incline Press,Behind The Neck Press (Paused),Dip,Crunch",4,13,14232.5,145.625,8.75,39,2,False
+2024-09-11,Wednesday,Lower 1,"Cybex Leg Press (Paused),Lying Leg Curl,Single Leg Extension",3,5,13652.5,417.0,6.8,15,1,False
+2024-09-12,Thursday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press (Paused),Neutral Grip Pull-up,Strive Low Row,Preacher Curl,Single Arm Tricep Pushdown,Ab Crunch",8,15,15067.5,158.5,7.933333333333334,45,1,False
+2024-09-14,Saturday,Lower 3,"Deadlift,Belt Squat,Upright Row,Strive Leg Extension",4,9,14820.0,310.8333333333333,7.111111111111111,27,2,False
+2024-09-15,Sunday,Upper 3,"Dumbbell Bench Press,Nautilus Overhead Press,Panatta Close Grip Press (Paused),Wide Grip Pulldown,T-Bar Row,Supported Tricep Pushdown,Bayesian Curl,Reverse Curl,Shrug,Neck Curl,Ab Crunch,Pullover (Paused)",12,19,22625.0,158.94736842105263,8.263157894736842,57,1,False
+2024-09-17,Tuesday,Lower 3,"Cybex Hack Squat,Leg Curl,Abductor,Calf Press",4,8,7802.5,328.0,5.125,24,2,False
+2024-09-18,Wednesday,Upper 1,"Strive Incline Press (Paused),Behind The Neck Press,Nautilus Single Arm Pulldown,Avenger Row,Single Arm Tricep Pushdown,Lateral Raise,Shrug,Neck Curl,Ab Crunch,Pullover",10,12,12810.0,157.95454545454547,8.0,36,1,False
+2024-09-20,Friday,Lower 1,"EZ Bar Curl,Cybex Leg Press (Paused),Leg Curl,Single Leg Extension,Calf Raise",5,8,14325.0,321.25,7.0,24,2,False
+2024-09-21,Saturday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press (Paused),Neutral Grip Pull-up,Strive Low Row,Ab Crunch,Upright Row,Overhead Extension",8,14,12380.0,147.1153846153846,7.321428571428571,42,1,False
+2024-09-22,Sunday,Lower 2,"Deadlift,Preacher Curl,Belt Squat (Paused),Leg Extension,Calf Raise,Ab Curl,Single Leg Hamstring Curl",7,12,17582.5,300.6818181818182,6.333333333333333,36,1,False
+2024-09-24,Tuesday,Upper 3,"Dumbbell Bench Press,Nautilus Overhead Press,Panatta Close Grip Press (Paused),Wide Grip Pulldown,T-Bar Row,Tricep Pushdown,Ab Crunch,Lateral Raise,Shrug,Neck Curl",10,17,19370.0,176.09375,7.470588235294118,51,2,False
+2024-09-25,Wednesday,Legs 3,"Cybex Hack Squat,Bayesian Curl,Romanian Deadlift (Paused),Leg Curl (Paused)",4,7,6040.0,278.0,6.857142857142857,21,1,False
+2024-09-27,Friday,Upper 1,"Strive Incline Press (Paused),Behind The Neck Press (Paused),Dip,Nautilus Single Arm Pulldown,Avenger Row,Single Arm Tricep Pushdown,Lateral Raise,Ab Crunch,Dumbbell Pullover (Paused),Shrug / Neck",10,16,15747.5,169.23076923076923,8.4,48,2,False
+2024-09-28,Saturday,Lower 1,"EZ Bar Curl,Cybex Leg Press (Paused),Seated Dumbbell Hammer Curl,Lying Leg Curl",4,7,11937.5,315.0,6.285714285714286,21,1,False
+2024-10-01,Tuesday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press,Neutral Grip Pull-up,Strive Low Row,Upright Row,Overhead Extension,Pullover",8,15,13040.0,142.66666666666666,7.866666666666666,45,3,False
+2024-10-03,Thursday,Lower 2,"Deadlift,Preacher Curl",2,5,6912.5,251.5,6.4,15,2,False
+2024-10-05,Saturday,Upper 3,"Dumbbell Bench Press,Nautilus Shoulder Press,Panatta Close Grip Press (Paused),Wide Grip Pulldown,T-Bar Row,Shrug,Neck Curl,Pullover",8,12,16927.5,191.45833333333331,8.333333333333334,36,2,False
+2024-10-06,Sunday,Lower 3,"Cybex Hack Squat,Bayesian Curl,Leg Curl (Paused),Strive Leg Extension",4,7,7782.5,303.5,6.857142857142857,21,1,False
+2024-10-08,Tuesday,Upper 1,"Strive Incline Press (Paused),Behind The Neck Press (Paused),Dip,Nautilus Pulldown,Single Arm Tricep Pushdown,Avenger Row,Lateral Raise,Shrug,Pullover",9,15,17552.5,167.5,8.0,45,2,False
+2024-10-10,Thursday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press (Paused),Neutral Grip Pull-up,Strive Row,Upright Row,Tricep Overhead Extension,Lat Row,Ab Crunch",9,16,14887.5,165.35714285714286,7.857142857142857,48,2,False
+2024-10-12,Saturday,Lower 2,"Deadlift,Preacher Curl",2,4,4560.0,327.5,4.5,12,2,False
+2024-10-13,Sunday,Upper 3,"Dumbbell Bench Press,Nautilus Shoulder Press,Panatta Close Grip Press (Paused),Wide Grip Pulldown,T-Bar Row,Tricep Pushdown,Cybex Lateral Raise,Pullover,Ab Crunch",9,16,19307.5,144.5,8.875,48,1,False
+2024-10-15,Tuesday,Lower 3,"Hack Squat,Bayesian Curl",2,3,3955.0,296.6666666666667,6.333333333333333,9,2,False
+2024-10-17,Thursday,Upper 1,"Strive Incline Press (Paused),Behind The Neck Press (Paused),Dip,Neutral Grip Pulldown,Avenger Row,Lateral Raise,Tricep Pushdown,Lat Pullover,Shrug",9,15,18333.25,184.42307692307693,8.126666666666667,45,2,False
+2024-10-18,Friday,Lower 1,"Barbell Curl,Hammer Curl,Cybex Leg Press (Paused)",3,4,12332.5,415.0,9.0,12,1,False
+2024-10-20,Sunday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press (Paused),Neutral Grip Pull-up,Strive Row,Upright Row,Tricep Overhead Extension",7,13,15367.5,158.26923076923077,8.692307692307692,39,2,False
+2024-10-22,Tuesday,Upper 3,"Dumbbell Bench Press,Nautilus Shoulder Press,Panatta Close Grip Press (Paused),Wide Grip Pulldown,T-Bar Row,Tricep Pushdown,Shrug,Dumbbell Pullover",8,13,17135.0,157.30769230769232,8.846153846153847,39,2,False
+2024-10-24,Thursday,Lower 3,"Hack Squat,Bayesian Curl,Leg Curl",3,5,3940.0,297.5,7.8,15,2,False
+2024-10-25,Friday,Upper 1,"Strive Incline Press (Paused),Behind The Neck Press (Paused),Dip,Nautilus Pulldown,Avenger Row,Shrug,Dumbbell Pullover,Tricep Pushdown,Icarian Lateral Raise",9,14,15804.0,175.57692307692307,8.7,42,1,False
+2024-10-27,Sunday,Lower 1,"EZ Bar Curl,Cybex Leg Press (Paused),Leg Curl",3,5,13787.5,390.5,8.0,15,2,False
+2024-10-29,Tuesday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press (Paused),Wide Grip Pulldown,Strive Row,Overhead Extension,Upright Row",7,13,18292.5,166.15384615384616,9.384615384615383,39,2,False
+2024-11-01,Friday,Upper 3,"Dumbbell Bench Press,Nautilus Shoulder Press,Panatta Close Grip Press (Paused),T-Bar Row,Tricep Pushdown,Pullover,Icarian Lateral Raise",7,12,15415.0,151.13636363636363,9.583333333333334,36,3,False
+2024-11-03,Sunday,Lower 1,"Cybex Hack Squat,Bayesian Curl,Hammer Curl,Leg Extension,Leg Curl,Abductor",6,10,7137.5,183.75,8.2,30,2,False
+2024-11-04,Monday,Upper 1,"Strive Incline Press (Paused),Behind The Neck Press (Paused),Dip,Nautilus Pulldown,Avenger Row,Tricep Pushdown,Icarian Lateral Raise,Shrug,Pull-up,Ab Crunch",10,17,20390.0,177.8125,8.0,51,1,False
+2024-11-06,Wednesday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press (Paused),Wide Grip Pulldown,Strive Row,Overhead Extension,Upright Row",7,12,17175.0,178.33333333333334,9.333333333333334,36,2,False
+2024-11-07,Thursday,Lower 1,"Deadlift,Romanian Deadlift,Leg Press,Leg Extension,Preacher Curl,Calf Raise",6,10,17985.0,400.3125,6.0,30,1,False
+2024-11-09,Saturday,Upper 3,Dumbbell Bench Press,1,2,1705.0,92.5,9.5,6,2,False
+2024-11-10,Sunday,Upper 1,"Strive Incline Press,Behind The Neck Press (Paused),Dip,Nautilus Pulldown,Avenger Row,Tricep Pushdown,Pull-up,Shrug,Ab Crunch",9,13,19359.5,187.15384615384616,8.538461538461538,39,1,False
+2024-11-12,Tuesday,Isolation,"Barbell Curl,Hammer Curl,Leg Curl",3,5,3377.5,92.0,8.8,15,2,False
+2024-11-13,Wednesday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press,Wide Grip Pulldown,Strive Row,Overhead Extension,Upright Row,Ab Crunch,Cybex Single Arm Lateral Raise",9,17,20245.0,159.61764705882354,8.823529411764707,51,1,False
+2024-11-15,Friday,Lower 1,"Deadlift,Romanian Deadlift (Paused),Preacher Curl,Reverse Curl,Cybex Leg Press (Paused),Leg Extension",6,10,16125.0,321.25,7.2,30,2,False
+2024-11-16,Saturday,Upper 3,"Dumbbell Bench Press,Nautilus Shoulder Press (Paused),Panatta Close Grip Press (Paused),Neutral Grip Pull-up,T-Bar Row,Single Arm Tricep Pushdown,Lateral Raise,Shrug,Pullover",9,15,19772.5,155.16666666666666,9.533333333333331,45,1,False
+2024-11-18,Monday,Lower 1,"Hack Squat,Incline Bicep Curl",2,4,2985.0,221.25,5.0,12,2,False
+2024-11-19,Tuesday,Upper 1,"Strive Incline Press (Paused),Behind The Neck Press,Dip,Nautilus Pulldown,Wide Grip Pull-up,Avenger Row,Tricep Pushdown",7,12,17732.5,171.45833333333334,9.166666666666666,36,1,False
+2024-11-21,Thursday,Isolation,"Barbell Curl,Hammer Curl,Neck Curl",3,6,3867.5,91.66666666666669,8.0,18,2,False
+2024-11-22,Friday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press,Wide Grip Pulldown,Strive Row,Overhead Extension,Upright Row",7,14,17792.5,170.71428571428572,9.214285714285714,42,1,False
+2024-11-24,Sunday,Lower 1,"Preacher Curl,Hammer Curl,Leg Press (Paused),Lying Leg Curl,Leg Extension",5,9,14690.0,265.0,7.333333333333333,27,2,False
+2024-11-25,Monday,Upper 3,"Dumbbell Bench Press,Nautilus Shoulder Press (Paused),Panatta Close Grip Press (Paused),Neutral Grip Pull-up,T-Bar Row,Single Arm Tricep Pushdown",6,12,16852.5,160.41666666666666,9.916666666666666,36,1,False
+2024-11-27,Wednesday,Upper 1,"Nautilus Incline Press (Paused),Behind The Neck Press (Paused),Dip,Nautilus Pulldown,Avenger Row,Icarian Lateral Raise,Shrug",7,10,11266.25,223.61111111111111,6.7,30,2,False
+2024-11-28,Thursday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press,Wide Grip Pulldown,Strive Row,Tricep Pushdown,Overhead Extension",7,12,17440.0,185.625,9.666666666666666,36,1,False
+2024-12-01,Sunday,Upper 1,"Nautilus Incline Press (Paused),Behind The Neck Press (Paused),Dip,Nautilus Pulldown,Avenger Row,Icarian Lateral Raise,Shrug",7,10,11266.25,223.61111111111111,6.7,30,3,False
+2024-12-03,Tuesday,Lower 1,"Barbell Curl,Hip Thrust",2,4,3717.5,163.75,8.75,12,2,False
+2024-12-05,Thursday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press,Wide Grip Pulldown,Strive Row,Tricep Pushdown,Overhead Extension",7,12,17440.0,185.625,9.666666666666666,36,2,False
+2024-12-07,Saturday,Lower 1,"Preacher Curl,Cybex Leg Press (Paused),Leg Curl (Paused)",3,5,11585.0,418.75,9.4,15,2,False
+2024-12-09,Monday,Upper 3,Dumbbell Bench Press,1,2,2075.0,92.5,11.5,6,2,False
+2024-12-10,Tuesday,Upper 1,"Nautilus Incline Press (Paused),Behind The Neck Press (Paused),Dip,Nautilus Pulldown,Avenger Row",5,10,18232.5,224.0,8.0,30,1,False
+2024-12-12,Thursday,Lower 1,"Barbell Curl,Hammer Curl",2,4,2130.0,67.5,9.5,12,2,False
+2024-12-14,Saturday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Smith Machine Close Grip Bench Press,Wide Grip Pulldown,Strive Row",5,9,12867.5,195.55555555555557,8.444444444444445,27,2,False
+2024-12-16,Monday,Upper 1,"Dumbbell Bench Press,High Incline Smith,Magnum Pulldown,T-Bar Row,Strive Chest Press (Paused),Dumbbell Overhead Press,Dip,Incline Fly,Tricep Pushdown,Overhead Extension,Pull-up,Nautilus Single Arm Pulldown,Preacher Curl,Wide Grip Pulldown,Avenger Row,Hammer Curl,Shrug",17,33,37766.25,168.03030303030303,7.546875,99,2,False
+2024-12-18,Wednesday,Upper 1,"Dumbbell Bench Press,High Incline Smith,Smith Machine Close Grip Bench Press,Wide Grip Pulldown,Hammer Strength Low Row,Shrug,Crunch",7,12,16392.5,174.91666666666666,8.0,36,2,False
+2024-12-20,Friday,Legs,"Barbell Curl,Hammer Curl,High Bar Back Squat",3,4,3160.0,104.375,12.25,12,2,False
+2024-12-21,Saturday,Upper 2,"Strive Chest Press,Dumbbell Overhead Press,Flex Machine Dip (Paused),Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row,Shrug",7,11,15285.0,177.04545454545453,9.0,33,1,False
+2024-12-23,Monday,Lower 2,"Preacher Curl,Romanian Deadlift,Hammer Curl,Leg Extension,Calf Raise,Ab Crunch",6,11,6960.0,162.05555555555554,7.5,33,2,False
+2024-12-25,Wednesday,Upper 1,"Dumbbell Bench Press,Incline Fly,Nautilus Shoulder Press,Smith Machine Close Grip Bench Press (Paused),Wide Grip Pulldown,Avenger Row,Tricep Pushdown,Lateral Raise,Shrug",9,17,25055.0,163.75,9.941176470588236,51,2,False
+2024-12-27,Friday,Legs,"1PPs+5/3 35/10 30/12 RVS,Hammer Curl,Face Pull,High Bar Squat,Leg Press,Leg Curl",6,8,7992.3,217.4875,7.25,24,2,False
+2024-12-29,Sunday,Upper 2,"High Incline Smith,Dip,JM Press,Hammer Strength Pulldown (Paused),Magnum Pulldown,T-Bar Row,Upright Row",7,12,15513.75,148.54166666666666,9.541666666666666,36,2,False
+2025-01-02,Thursday,Upper 3,"Strive Chest Press (Paused),Dumbbell Overhead Press,Dip Machine,Nautilus Pulldown,Wide Grip Pull-up,Low Row,Tricep Pushdown,Shrug",8,15,23414.0,196.63333333333333,9.466666666666669,45,4,False
+2025-01-04,Saturday,Lower,Barbell Curl,1,2,1455.0,82.5,12.0,6,2,False
+2025-01-06,Monday,Upper 1,"Dumbbell Bench Press,Machine Shoulder Press,Smith Machine Close Grip Bench Press (Paused),Wide Grip Pulldown,Pullover,Avenger Row",6,12,14455.0,171.25,7.25,36,2,False
+2025-01-08,Wednesday,Lower 2,"Preacher Curl,Bilateral Romanian Deadlift (Paused)",2,5,4897.5,165.5,6.4,15,2,False
+2025-01-11,Saturday,Upper 2,"Smith Machine High Incline,Dip,JM Press,Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row,Tricep Pushdown",7,14,15572.5,140.53571428571428,10.071428571428571,42,3,False
+2025-01-13,Monday,Legs,EZ Bar Curl,1,3,1472.5,65.83333333333333,10.333333333333334,9,2,False
+2025-01-15,Wednesday,Upper 3,"Strive Chest Press (Paused),Dumbbell Overhead Press,Flex Dip (Paused),Nautilus Pulldown,Hammer Strength Low Row,Tricep Pushdown",6,10,18362.5,195.25,9.9,30,2,False
+2025-01-17,Friday,Upper 1,"Dumbbell Bench Press,Machine Shoulder Press (Paused),Smith Machine Close Grip Bench Press (Paused),Wide Grip Pulldown,Pullover,Avenger Row",6,12,16562.5,178.75,8.5,36,2,False
+2025-01-19,Sunday,Legs,"EZ Bar Curl,High Bar Back Squat,Leg Curl,Ab Crunch,Leg Extension",5,10,8651.5,149.33333333333334,8.1,30,2,False
+2025-01-22,Wednesday,Upper 2,"High Incline Smith,Dip,JM Press,Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row",6,10,9142.5,134.75,9.3,30,3,False
+2025-01-24,Friday,Lower 2,"Preacher Curl,Deadlift",2,3,3495.0,286.6666666666667,4.666666666666667,9,2,False
+2025-01-26,Sunday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Flex Dip (Paused),Nautilus Single Arm Pulldown,Low Row,Rear Delt Fly",6,11,20627.5,224.0909090909091,9.909090909090908,33,2,False
+2025-01-28,Tuesday,Upper 3,"Dumbbell Bench Press,Machine Shoulder Press (Paused),Smith Machine Close Grip Bench Press (Paused),Wide Grip Pulldown,Avenger Row,Upright Row",6,11,11125.0,163.4090909090909,8.0,33,2,False
+2025-02-01,Saturday,Upper 2,"Smith Machine High Incline,Dip,JM Press (Paused),Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row",6,10,9173.75,163.75,6.85,30,4,False
+2025-02-03,Monday,Legs,Barbell Curl,1,1,810.0,135.0,6.0,3,2,False
+2025-02-05,Wednesday,Upper 3,"Strive Chest Press (Paused),Dumbbell Overhead Press,Dip Machine,Nautilus Single Arm Pulldown,Hammer Strength Low Row",5,10,20162.5,260.5,8.65,30,2,False
+2025-02-07,Friday,Legs,"Preacher Curl,Hammer Curl,Cybex Leg Press",3,5,3767.5,204.5,6.8,15,2,False
+2025-02-08,Saturday,Upper,"Dumbbell Bench Press,Legend Shoulder Press,Smith Machine Close Grip Bench Press (Paused),Wide Grip Pulldown,Avenger Row,Lateral Raise,Shrug",7,12,13510.0,175.41666666666666,7.4,36,1,False
+2025-02-10,Monday,Legs,"EZ Bar Curl,Hammer Curl,High Bar Squat",3,5,3357.5,129.5,8.0,15,2,False
+2025-02-12,Wednesday,Upper,"Smith Machine Deltoid Press,Dip,JM Press (Paused),Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row",6,11,8797.5,158.4090909090909,7.9,33,2,False
+2025-02-14,Friday,Lower,"Preacher Curl,Hammer Curl,Cybex Leg Press (Paused),Leg Curl",4,7,5947.5,185.3571428571429,7.857142857142857,21,2,False
+2025-02-15,Saturday,Upper,"Strive Chest Press (Paused),Dumbbell Overhead Press,Dip Machine,Nautilus Pulldown,Wide Grip Pull-up,Low Row,Incline Fly,Shrug,Lateral Raise",9,14,25292.5,215.89285714285717,8.607142857142858,42,1,False
+2025-02-17,Monday,Upper 1,"Bench Press,Legend Shoulder Press,Dip Machine,JM Press,Wide Grip Pulldown,Avenger Row,Smith Machine Upright Row,Shrug",8,13,20952.5,180.7692307692308,10.846153846153848,39,2,False
+2025-02-19,Wednesday,Lower 2,"EZ Bar Curl,Hammer Curl,Cybex Leg Press,Pendulum Leg Curl",4,6,11557.5,266.25,8.5,18,2,False
+2025-02-21,Friday,Upper,"High Incline Smith,Dumbbell Bench Press,Smith Machine Close Grip Bench Press (Paused),Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row",6,12,14760.5,161.54166666666666,8.5,36,2,False
+2025-02-22,Saturday,Lower 1,"Preacher Curl,High Bar Squat,Preacher Hammer Curl,Romanian Deadlift (Paused)",4,8,6755.0,163.75,8.5,24,1,False
+2025-02-24,Monday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Dip (Paused),Nautilus Pulldown,Pull-up,Hammer Strength Low Row",6,9,17373.75,230.55555555555557,8.944444444444445,27,2,False
+2025-02-26,Wednesday,Lower 2,EZ Bar Curl,1,2,1105.0,137.5,4.0,6,2,False
+2025-03-01,Saturday,Upper 3,"Bench Press,Legend Shoulder Press (Paused),Pulse Machine Dip (Paused),JM Press (Paused),Wide Grip Pulldown,Nautilus Super Pullover,Avenger Row,Lateral Raise",8,13,20670.0,185.0,9.153846153846152,39,3,False
+2025-03-03,Monday,Upper 1,"High Incline Smith,Dumbbell Bench Press,Smith Machine Close Grip Bench Press (Paused),Hammer Strength Pulldown,Magnum Pulldown,Upright Row",6,8,6176.25,130.9375,6.8125,24,2,False
+2025-03-05,Wednesday,Lower 2,"EZ Bar Curl,Pendulum Leg Curl",2,5,5947.5,182.5,7.4,15,2,False
+2025-03-07,Friday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Dip (Paused),Nautilus Pulldown,Hammer Strength Low Row,Wide Grip Pull-up,Shrug",7,12,22705.0,237.5,8.458333333333334,36,2,False
+2025-03-09,Sunday,Lower 1,High Bar Squat,1,2,2623.75,310.0,4.25,6,2,False
+2025-03-11,Tuesday,Upper 3,"Bench Press,Legend Shoulder Press (Paused),Pulse Dip (Paused),JM Press,Pulldown,Pullover,Avenger Row",7,10,15717.5,204.25,9.0,30,2,False
+2025-03-13,Thursday,Lower,"Dumbbell Bicep Curl,Hammer Curl",2,3,1200.0,48.333333333333336,9.0,9,2,False
+2025-03-15,Saturday,Upper 1,"High Incline Smith,Dumbbell Bench Press,Smith Machine Close Grip Bench Press (Paused),Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row,Shrug,Icarian Lateral Raise",8,14,16176.25,166.60714285714286,7.107142857142857,42,2,False
+2025-03-17,Monday,Lower 1,Preacher Curl,1,1,420.0,35.0,12.0,3,2,False
+2025-03-19,Wednesday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Dip,Nautilus Pulldown,Nautilus Pullover,Low Row,Upright Row",7,12,17295.0,188.95833333333331,7.818181818181818,36,2,False
+2025-03-21,Friday,Lower,"Dumbbell Bicep Curl,Hammer Curl,High Bar Squat,Pendulum Leg Curl,Face Pull,Calf Raise",6,9,10870.0,200.83333333333331,6.777777777777778,27,2,False
+2025-03-23,Sunday,Upper 3,"Bench Press,Legend Shoulder Press (Paused),Pulse Dip (Paused),JM Press,Wide Grip Pulldown,Nautilus Pullover,Avenger Row,Cybex Lateral Raise",8,14,21113.75,204.4642857142857,8.678571428571429,42,2,False
+2025-03-25,Tuesday,Lower 1,Preacher Curl,1,3,985.0,33.333333333333336,11.0,9,2,False
+2025-03-27,Thursday,Upper 1,"High Incline Smith,Dumbbell Bench Press,Smith Machine Close Grip Bench Press (Paused),Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row,Upright Row,Power Shrug",8,14,14033.75,167.32142857142858,8.083333333333334,42,2,False
+2025-03-29,Saturday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Dip,Nautilus Single Arm Pulldown,Wide Grip Pull-up,Hammer Strength Low Row,Shrug,Cybex Lateral Raise",8,13,23145.0,229.23076923076923,8.041666666666666,39,2,False
+2025-04-01,Tuesday,Lower 1,"High Bar Squat,Romanian Deadlift (Paused),Hammer Curl",3,6,6480.0,272.5,5.0,18,3,False
+2025-04-03,Thursday,Upper 3,"Bench Press,Legend Shoulder Press (Paused),Pulse Dip (Paused),JM Press (Paused),Wide Grip Pulldown,Nautilus Pullover,Avenger Row,Upright Row,Power Shrug",9,14,23715.0,197.5,8.964285714285714,42,2,False
+2025-04-04,Friday,Lower 2,"Dumbbell Bicep Curl,Supported Preacher Curl,Prime Single Arm Leg Extension,Calf Raise (Paused),Pendulum Leg Curl,Single Arm Pendulum Leg Press,Ab Flexor",7,11,18100.0,183.05555555555557,10.409090909090908,33,1,False
+2025-04-06,Sunday,Upper 1,"High Incline Smith,Dumbbell Bench Press,Smith Machine Close Grip Bench Press (Paused),Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row,Cybex Lateral Raise,Shrug",8,14,19463.75,174.64285714285714,8.25,42,2,False
+2025-04-07,Monday,Lower 1,"Preacher Curl,High Bar Squat,Bilateral Romanian Deadlift (Paused),Hammer Curl,Ab Crunch,Calf Raise (Paused)",6,14,15102.5,197.1071428571429,7.153846153846154,42,1,False
+2025-04-09,Wednesday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Nautilus Single Arm Pulldown,Wide Grip Pull-up,Hammer Strength Low Row,Upright Row,Power Shrug",7,11,15552.5,225.22727272727272,7.409090909090909,33,2,False
+2025-04-10,Thursday,Lower 2,"Dumbbell Bicep Curl,Supported Hammer Curl,Strive Single Arm Leg Extension,Nebula Calf Raise,Ab Flexor",5,9,16542.5,184.375,10.22222222222222,27,1,False
+2025-04-12,Saturday,Upper 3,"Barbell Bench Press,Legend Shoulder Press (Paused),Pulse Dip (Paused),JM Press (Paused),Wide Grip Pulldown,Nautilus Pullover,Cybex Lateral Raise,Nautilus Fly",8,13,19478.5,191.92307692307693,8.407692307692308,39,2,False
+2025-04-13,Sunday,Lower 1,"Preacher Curl,High Bar Squat,Romanian Deadlift (Paused),Hammer Curl,Ab Crunch,Calf Raise",6,14,15690.5,186.03571428571428,7.357142857142857,42,1,False
+2025-04-15,Tuesday,Upper 1,"High Incline Smith,Dumbbell Bench Press,Smith Machine Close Grip Bench Press (Paused),Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row,Upright Row,Power Shrug",8,14,16293.5,173.92857142857142,7.471428571428571,42,2,False
+2025-04-16,Wednesday,Lower 2,"Dumbbell Bicep Curl,Supported Hammer Curl,Strive Leg Extension,Pendulum Leg Curl",4,9,14887.5,161.38888888888889,9.88888888888889,27,1,False
+2025-04-18,Friday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Nautilus Single Arm Pulldown,Tricep Pushdown,Low Row",5,10,21752.5,240.75,9.75,30,2,False
+2025-04-19,Saturday,Lower 1,"Preacher Curl,Hammer Curl,High Bar Squat,Calf Raise (Paused)",4,8,5784.75,112.3125,8.385714285714286,24,1,False
+2025-04-21,Monday,Upper 3,"Barbell Bench Press,Legend Shoulder Press (Paused),Pulse Dip (Paused),Wide Grip Pulldown,Nautilus Pullover (Paused),Avenger Row,Upright Row",7,13,22067.5,203.65384615384616,8.884615384615385,39,2,False
+2025-04-22,Tuesday,Upper 1,"High Incline Smith,Dumbbell Bench Press,Smith Machine Close Grip Bench Press (Paused),Hammer Strength Pulldown,Magnum Pulldown,T-Bar Row,Cybex Lateral Raise",7,13,14888.75,178.84615384615384,7.115384615384615,39,1,False
+2025-04-24,Thursday,Lower 1,"Preacher Curl,Hammer Curl,High Bar Squat (Paused)",3,4,2042.5,111.875,6.5,12,2,False
+2025-04-25,Friday,Upper 2,"Strive Chest Press (Paused),Dumbbell Overhead Press,Dip (Paused),Nautilus Single Arm Pulldown,Wide Grip Pull-up,Low Row,Smith Machine Upright Row,Power Shrug,Rear Delt Fly",9,14,19236.5,210.3846153846154,8.049999999999999,42,1,False
+2025-04-27,Sunday,Lower 2,"Dumbbell Bicep Curl,Supported Hammer Curl,Strive Leg Extension (Paused),Pendulum Leg Press (Paused)",4,6,8767.5,137.5,10.083333333333334,18,2,False
+2025-04-28,Monday,Upper 3,"Smith Machine Flat Bench Press,Legend Shoulder Press (Paused),Dip Machine,Wide Grip Pulldown,Strive Pec Fly,Avenger Row,Cybex Lateral Raise,Rear Delt Fly",8,13,14491.25,173.07692307692307,6.409090909090909,39,1,False
+2025-05-07,Wednesday,Lower 1,"Strive Single Leg Extension,Pendulum Leg Curl",2,3,6585.0,196.66666666666663,12.0,9,9,False
+2025-05-15,Thursday,Fun day,"Tricep Pushdown,Leverage Chest Press (Paused),Hammer Strength Shoulder Press,Dip (Paused),Lateral Raise,Prime Pec Deck (Paused),Hammer Strength Single Arm Pulldown (Paused),Preacher Curl,Wide Grip Pulldown,Arsenal T-Bar Row,Hammer Curl,Upright Row,Arsenal Fly,Hammer Strength Pulldown (Paused),Lat Focused Wide Grip Pulldown,Dumbbell Bench Press,Smith Machine Close Grip Bench Press (Paused),Atlantis Lateral Raise,Prime Pec Deck,Neutral Grip Pull-up,Hammer Strength Low Row,Ab Crunch,Rear Delt Fly,Dumbbell Overhead Press,Dip,Pendlay Row,Hammer Strength Single Arm Pulldown,Hoist Row,Power Shrug",29,64,72364.5,157.34920634920636,7.580645161290323,192,8,False
+2025-05-23,Friday,Legs,"Prime Single Arm Leg Extension (Paused),Supported Hammer Curl,Cable Curl,High Bar Smith Machine Squat (Paused),Single Leg Pendulum Leg Press (Paused),Dumbbell Bench Press,Hammer Strength Overhead Press,Smith Machine Close Grip Bench Press (Paused),Prime Pec Deck,Romanian Deadlift (Paused),Wide Grip Pulldown,Neutral Grip Pull-up,Hammer Strength Low Row,Hammer Curl,Rear Delt Fly,Leverage Chest Press (Paused)",16,28,34735.0,207.5892857142857,6.5,84,8,False
+2025-06-10,Tuesday,Lower 1,"Supported Hammer Curl,Dumbbell Bench Press,Hammer Strength Shoulder Press (Paused),Atlantis Lateral Raise,Preacher Curl,Romanian Deadlift (Paused),Wide Grip Pulldown,Lat Focused Pulldown,Single Leg Curl,Hammer Strength Low Row,Rear Delt Fly,Leverage Chest Press (Paused),Dumbbell Overhead Press,Dip (Paused),Chest Fly,Single Arm Leg Curl,Pendlay Row,Hammer Strength Single Arm Pulldown,Pull-up,Lat Focused Row,Face Pull,Smith Machine Close Grip Bench Press (Paused),Ab Crunch,Leg Extension (Paused),Single Leg Curl (Paused),Calf Raise,Prime Fly,Leg Curl (Paused),Upright Row,Cable Curl,Hammer Single Arm Pulldown (Paused),Lat Focused Row (Paused),Shrug",33,72,82658.0,172.42753623188406,7.187323943661972,216,18,False
+2025-06-20,Friday,Legs,"Prime Single Arm Leg Extension (Paused),Arsenal Hack Squat (Paused),Single Arm Pendulum Leg Press (Paused),Dumbbell Bench Press,Hammer Strength Shoulder Press (Paused),Smith Machine Close Grip Bench Press (Paused),Cable Fly,Atlantis Lateral Raise,Barbell Curl,Wide Grip Pulldown,Lat Focused Pulldown,Seated Hammer Curl,Hammer Strength Low Row,Single Arm Leg Curl (Paused),Calf Raise,Ab Crunch,Leverage Chest Press (Paused),Dumbbell Overhead Press,Dip,Prime Fly,Upright Row,Leg Curl (Paused),Supported Hammer Curl,Cable Curl,Strive Single Leg Extension,Body Masters Pec Deck,Preacher Curl,Romanian Deadlift,Hammer Curl,Face Pull,Single Leg Curl (Paused)",31,61,61713.75,151.65254237288136,7.508196721311475,183,10,False
+2025-07-07,Monday,Legs,"Strive Single Leg Extension (Paused),Hatfield Squat (Paused),Single Leg Pendulum Leg Press (Paused),Dumbbell Bench Press,Hammer Strength Shoulder Press (Paused),Smith Machine Close Grip Bench Press (Paused),Tricep Pushdown,Fly,Cybex Lateral Raise,Preacher Curl,Wide Grip Pulldown,Lat Focused Pulldown,Hammer Strength Low Row,Dumbbell Hammer Curl,Single Leg Curl (Paused),Face Pull,Crunch,Leverage Chest Press (Paused),Dumbbell Overhead Press,Dip (Paused),Prime Fly,Upright Row,Supported Hammer Curl,Pendlay Row,Cable Curl,Hammer Strength Single Arm Pulldown,Wide Grip Pull-up,Lat Focused Row,Shrug,Rear Delt Fly",30,48,48128.75,166.30208333333334,7.444444444444445,144,17,False
+2025-07-15,Tuesday,Legs,"Prime Single Arm Leg Extension (Paused),Seated Leg Curl (Paused),Dumbbell Bench Press,Hammer Strength Shoulder Press (Paused),Tricep Pushdown,Prime Pec Deck,Atlantis Lateral Raise,Preacher Curl,Romanian Deadlift,Wide Grip Pulldown,Hammer Curl,Hammer Strength Low Row,Ab Crunch,Single Leg Curl (Paused),Face Pull,Leverage Chest Press (Paused),Dumbbell Overhead Press,Dip (Paused),Chest Fly,Upright Row,Lateral Raise,Leg Extension,Cable Curl,Hammer Strength Single Arm Pulldown,Wide Grip Pull-up,Lat Focused Pulldown,Hammer Strength Shoulder Press,Smith Machine Close Grip Bench Press (Paused),Romanian Deadlift (Paused),Low Row,Pull-up,Hammer Strength Single Arm Pulldown (Paused),Supinated Wide Grip Pull-up,Lat Focused Row (Paused),Shrug",35,90,96580.8,155.80814,8.093023,270,8,False
+2025-07-23,Wednesday,Legs,"Prime Single Leg Extension,Leg Curl (Paused),Safety Squat Bar Squat (Paused),Single Leg Pendulum Leg Press (Paused),Dumbbell Bench Press,Hammer Strength Shoulder Press (Paused),Smith Machine Close Grip Bench Press (Paused),Prime Pec Deck,Atlantis Lateral Raise,Preacher Curl,Wide Grip Pulldown,Hammer Curl,Leverage Chest Press (Paused),Dumbbell Shoulder Press,Dip (Paused),Upright Row,Dumbbell Lateral Raise,Leg Extension,Supported Hammer Curl",19,34,23290.0,137.90322580645162,6.96875,102,8,False
+2025-08-01,Friday,Upper 1,"Strive Incline Press (Paused),Legend Shoulder Press (Paused),Dip (Paused),Flat Pec Fly,Nautilus Single Arm Pulldown (Paused),Supinated Wide Grip Pull-up,T-Bar Row,Cybex Lateral Raise,Rear Delt Fly,Shrug",10,15,21150.0,193.4333333333333,7.0,45,9,False
+2025-08-03,Sunday,Lower 1,"Preacher Curl,Strive Single Leg Extension (Paused),MedX Leg Curl (Paused),Safety Squat Bar Squat (Paused),Hammer Curl,Ab Crunch,Calf Raise,Single Leg Pendulum Leg Press (Paused)",8,13,11623.0,164.54166666666666,8.615384615384615,39,2,False
+2025-08-05,Tuesday,Upper 2,"Dumbbell Bench Press,Nautilus Shoulder Press (Paused),Smith Machine Close Grip Bench Press (Paused),Fly (Paused),Wide Grip Pulldown,Nautilus Pullover",6,12,12870.0,157.5,7.333333333333333,36,2,False
+2025-08-06,Wednesday,Lower 2,"Supported Hammer Curl,Cable Curl,Romanian Deadlift (Paused),Nautilus Rear Delt,Strive Leg Extension,Barbell Hip Thrust,Ab Rower",7,10,5612.25,168.375,6.92,30,1,False
+2025-08-08,Friday,Upper 3,"Leverage Chest Press (Paused),Legend Shoulder Press (Paused),Dip (Paused),Pulldown,Magnum Pulldown,Cybex Lateral Raise,Hammer Strength Low Row,Shrug",8,12,19536.2,213.636364,7.75,36,2,False
+2025-08-10,Sunday,Lower 1,"Rear Delt Fly,Preacher Curl,MedX Leg Curl (Paused),Strive Single Leg Extension (Paused),Safety Squat Bar Squat (Paused),Single Leg Pendulum Leg Press (Paused),MedX Crunch",7,13,14067.0,149.95833333333334,8.461538461538462,39,2,False
+2025-08-12,Tuesday,Upper 2,"Dumbbell Bench Press,Strive Shoulder Press (Paused),Smith Machine Close Grip Bench Press (Paused),Fly (Paused),Wide Grip Pulldown,Nautilus Pullover,Avenger Row,Upright Row",8,16,16650.25,140.9375,7.9125,48,2,False
+2025-08-13,Wednesday,Lower 2,"Supported Hammer Curl,Cable Curl,Strive Leg Extension,Flex Single Leg Curl (Paused),Rear Delt Fly,Barbell Hip Thrust Cable,Ab Rower,Abductor,Calf Raise",9,16,10875.0,75.57142857142857,9.85,48,1,False
+2025-08-15,Friday,Upper 1,"Strive Incline Press (Paused),Dumbbell Overhead Press (Paused),Dip (Paused),Tricep Pushdown,Nautilus Single Arm Pulldown,Supinated Wide Grip Pull-up,T-Bar Row,Shrug,Cybex Lateral Raise",9,14,17238.75,173.57142857142858,7.346153846153846,42,2,False
+2025-08-17,Sunday,Lower 1,"Preacher Curl,Face Pull,MedX Leg Curl (Paused),Strive Single Leg Extension (Paused),Safety Squat Bar Squat (Paused),Single Leg Pendulum Leg Press (Paused)",6,12,16065.0,174.58333333333334,8.166666666666666,36,2,False
+2025-08-18,Monday,Upper 2,"Leverage Chest Press (Paused),Legend Shoulder Press (Paused),Smith Machine Close Grip Bench Press (Paused),Fly (Paused),Pulldown,Magnum Pulldown,Hammer Strength Low Row",7,13,19157.5,220.96153846153845,7.153846153846154,39,1,False
+2025-08-20,Wednesday,Lower 2,"Supported Single Arm Hammer Curl,Cable Curl,Romanian Deadlift (Paused),Single Leg Curl (Paused),Abductor,Ab Rower,Rear Delt Fly,Calf Raise,Cable",9,19,25027.0,129.81578947368422,10.425,57,2,False
+2025-08-22,Friday,Upper 2,"Dumbbell Bench Press,Strive Shoulder Press (Paused),Dip (Paused),Wide Grip Pulldown,Nautilus Pullover,Avenger Row,Shrug,Cybex Lateral Raise",8,13,12657.5,177.69230769230768,6.208333333333333,39,2,False
+2025-08-24,Sunday,Lower 1,"Preacher Curl,Dumbbell Hammer Curl,MedX Leg Curl (Paused),Strive Single Leg Curl (Paused),Safety Squat Bar Squat (Paused),Single Leg Pendulum Leg Press (Paused),MedX Crunch,Nebula Calf Raise",8,13,15270.0,150.0,9.915384615384616,39,2,False
+2025-08-25,Monday,Upper 3,"Strive Incline Press (Paused),Dumbbell Overhead Press (Paused),Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown (Paused),T-Bar Row,Upright Row",6,11,14433.75,178.1818181818182,7.545454545454546,33,1,False
+2025-08-27,Wednesday,Lower 2,"Supported Hammer Curl,Romanian Deadlift (Paused),Flex Single Leg Curl (Paused),Ab Rower,Rear Delt Fly,Strive Leg Extension (Paused)",6,11,6908.0,84.88888888888889,10.78181818181818,33,2,False
+2025-08-29,Friday,Upper 1,"Leverage Chest Press (Paused),Legend Shoulder Press (Paused),Dip (Paused),Pulldown (Paused),Magnum Pulldown",5,8,11132.5,236.5625,6.125,24,2,False
+2025-09-01,Monday,Lower 1,"Preacher Curl,Hammer Curl,MedX Leg Curl (Paused),Strive Single Leg Extension (Paused),Safety Squat Bar Squat (Paused)",5,8,7729.5,154.625,7.571428571428571,24,3,False
+2025-09-03,Wednesday,Upper 2,"Dumbbell Bench Press,Strive Shoulder Press (Paused),Smith Machine Close Grip Bench Press,Fly (Paused),Wide Grip Pulldown,Nautilus Pullover,Avenger Row,Upright Row",8,14,15667.5,154.28571428571428,7.464285714285714,42,2,False
+2025-09-05,Friday,Lower 2,"Supported Hammer Curl,Cable Curl,Romanian Deadlift (Paused),Ab Rower,Rear Delt Fly,Single Leg Curl (Paused),Strive Leg Extension,Calf Raise,Abductor",9,20,20074.0,140.69444444444446,9.755555555555556,60,2,False
+2025-09-07,Sunday,Upper 3,"Prime Incline Press (Paused),Dumbbell Overhead Press (Paused),Dip (Paused),147.⅚ OVH,Nautilus Single Arm Pulldown,Supinated Wide Grip Pull-up",6,10,10612.5,159.5,7.5,30,2,False
+2025-09-09,Tuesday,Lower 1,"Preacher Curl,Face Pull,MedX Leg Curl (Paused),Strive Single Leg Extension (Paused),Safety Squat Bar Squat (Paused),MedX Crunch,Single Leg Pendulum Leg Press (Paused),Calf Raise",8,15,17001.0,179.91666666666666,9.966666666666669,45,2,False
+2025-09-11,Thursday,Upper 1,"Leverage Chest Press (Paused),Legend Shoulder Press (Paused),Smith Machine Close Grip Bench Press (Paused),Fly,Pulldown,Hammer Strength Row",6,10,12975.0,221.0,7.222222222222222,30,2,False
+2025-09-13,Saturday,Lower 2,"Supported Hammer Curl,Cable Curl,Romanian Deadlift (Paused),Rear Delt Fly,Ab Rower,Single Leg Curl (Paused),Strive Leg Extension,Abductor,Calf Raise",9,15,16102.5,128.19230769230768,10.8,45,2,False
+2025-09-15,Monday,Upper 2,"Dumbbell Bench Press,Behind The Neck Smith Press (Paused),Dip (Paused),Wide Grip Pulldown,Nautilus Pullover,Avenger Row,Shrug,Cybex Lateral Raise,Preacher Curl,Barbell Hammer Curl,MedX Leg Curl (Paused),Strive Single Leg Extension (Paused),Safety Squat Bar Squat (Paused),MedX Crunch",14,22,23691.25,158.0681818181818,7.295454545454546,66,2,False
+2025-09-16,Tuesday,Upper 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Overhead Extension,Fly (Paused),Nautilus Single Arm Pulldown (Paused),Hammer Strength Low Row",7,11,15827.5,206.3636363636364,8.444444444444445,33,1,False
+2025-09-18,Thursday,Lower 2,"Supported Hammer Curl,Romanian Deadlift,Cable Curl,Rear Delt Fly,Ab Rower,Single Leg Curl (Paused),Strive Leg Extension",7,15,12751.5,86.57692307692308,10.428571428571429,45,2,False
+2025-09-20,Saturday,Upper 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),147.⅝ OVH,Nautilus Pullover (Paused),Wide Grip Pulldown,Avenger Row,Cybex Lateral Raise",8,12,14092.5,161.66666666666666,8.291666666666666,36,2,False
+2025-09-22,Monday,Lower 1,"Preacher Curl,Barbell Hammer Curl,MedX Leg Curl (Paused),Strive Single Leg Extension (Paused),Safety Squat Bar Squat (Paused),MedX Crunch",6,12,10582.0,138.77272727272728,7.583333333333333,36,2,False
+2025-09-24,Wednesday,Upper 1,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Tricep Pushdown,Fly (Paused),Nautilus Single Arm Pulldown (Paused),Hammer Strength Low Row",7,13,18590.0,215.96153846153845,6.538461538461538,39,2,False
+2025-09-26,Friday,Lower 2,"Supported Hammer Curl,Cable Curl,Rear Delt Fly,Romanian Deadlift (Paused),Single Leg Curl (Paused),Ab Rower,Strive Leg Extension (Paused),Calf Raise,Abductor",9,16,7472.5,79.458333,11.909090909090908,48,2,False
+2025-09-28,Sunday,Lower 1,"Preacher Curl,MedX Leg Curl (Paused),Strive Single Leg Extension (Paused)",3,7,8318.0,150.5,8.857142857142858,21,2,False
+2025-10-01,Wednesday,Upper 1,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown (Paused),Flat Fly (Paused),Hammer Strength Row,Upright Row",7,13,19430.0,194.23076923076923,8.25,39,3,False
+2025-10-03,Friday,Lower 2,"Supported Hammer Curl,Cable Curl",2,6,4692.5,79.5,10.8,18,2,False
+2025-10-05,Sunday,Upper 2,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Yates Pullover (Paused),Avenger Row (Paused),Cybex Lateral Raise",6,13,12903.5,178.07692307692307,5.723076923076923,39,2,False
+2025-10-07,Tuesday,Lower 1,"Preacher Curl,Romanian Deadlift (Paused),Strive Leg Extension (Paused),Single Leg Pendulum Press (Paused),Dumbbell Hammer Curl,MedX Crunch (Paused)",6,9,12649.5,221.64285714285717,11.0,27,2,False
+2025-10-09,Thursday,Upper 1,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Fly,Nautilus Single Arm Pulldown,Supinated Wide Grip Pull-up,Hammer Strength Row,Cybex Lateral Raise,Supported Hammer Curl,Cable Curl,Rear Delt Fly,Safety Squat Bar Squat (Paused)",12,24,30178.5,170.77083333333334,8.266666666666666,72,2,False
+2025-10-11,Saturday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Yates Pullover,Avenger Row,Cybex Lateral Raise,Preacher Curl,Dumbbell Hammer Curl,Romanian Deadlift,MedX Crunch",10,17,18864.75,165.97058823529412,7.78125,51,2,False
+2025-10-13,Monday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Fly (Paused),Nautilus Single Arm Pulldown,Supported Hammer Curl,Cable Curl,Rear Delt Fly,Safety Squat Bar Squat (Paused)",9,17,19165.5,165.23333333333332,8.54,51,2,False
+2025-10-15,Wednesday,Torso,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Avenger Row (Paused),Cybex Lateral Raise,Arms and Legs,Hammer Curl,Romanian Deadlift,Strive Leg Extension (Paused),MedX Crunch (Paused),Single Leg Pendulum Press (Paused)",11,20,25710.5,187.10526315789477,8.535,60,2,False
+2025-10-17,Friday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown (Paused),Fly,Supinated Wide Grip Pull-up,Hammer Strength Low Row,Shrug,Upright Row",9,16,21905.5,194.84375,8.793333333333333,48,2,False
+2025-10-19,Sunday,Limbs 2,"Supported Hammer Curl,Cable Curl,Rear Delt Fly,MedX Leg Curl (Paused),Safety Squat Bar Squat (Paused),Ab Rower,Calf Raise",7,14,10843.75,150.1818181818182,8.86923076923077,42,2,False
+2025-10-21,Tuesday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Yates Pullover",4,7,8477.5,190.0,6.428571428571429,21,2,False
+2025-10-23,Thursday,Limbs 1,"Preacher Curl,Romanian Deadlift (Paused),MedX Crunch,Flex Single Leg Curl (Paused),Single Leg Press (Paused)",5,9,12091.5,210.77777777777777,6.388888888888889,27,2,False
+2025-10-25,Saturday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Nautilus Single Arm Pulldown (Paused),Smith Machine Close Grip Bench Press (Paused),Supinated Wide Grip Pull-up",5,13,22692.5,224.3181818181818,8.863636363636363,39,2,False
+2025-10-27,Monday,Limbs 2,"Supported Hammer Curl,Cable Curl,MedX Leg Curl (Paused),Safety Squat Bar Squat (Paused),Ab Rower,Calf Raise,Abductor",7,13,13712.5,197.22222222222223,12.272727272727272,39,2,False
+2025-10-29,Wednesday,Limbs 1,"Preacher Curl,Romanian Deadlift (Paused),Single Leg Curl (Paused),MedX Crunch,Strive Leg Extension,Icarian Calf Raise",6,10,13931.0,151.22222222222223,11.0,30,2,False
+2025-11-01,Saturday,Torso,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Dorian Pullover,Dumbbell Lateral Raise,Supinated Wide Grip Pulldown,Avenger Row (Paused)",7,12,14250.0,157.29166666666666,9.041666666666666,36,3,False
+2025-11-03,Monday,Limbs 1,"Preacher Curl,Romanian Deadlift (Paused),Single Leg Curl (Paused),MedX Crunch,Strive Leg Extension,Icarian Calf Raise",6,10,13931.0,151.22222222222223,11.0,30,2,False
+2025-11-04,Tuesday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown (Paused),Supinated Wide Grip Pull-up,Upright Row,Shrug",7,17,17061.25,163.0,8.607142857142858,51,1,False
+2025-11-06,Thursday,Limbs 2,"Cable Curl,MedX Leg Curl (Paused)",2,4,7110.0,208.375,9.75,12,2,False
+2025-11-07,Friday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip,Dumbbell Lateral Raise,Supinated Wide Grip Pulldown,MedX Lateral Raise,Avenger Row (Paused)",7,11,12043.25,157.5909090909091,8.65,33,1,False
+2025-11-09,Sunday,Limbs 1,"Preacher Curl,Dumbbell Hammer Curl,Romanian Deadlift (Paused),MedX Crunch,Single Leg Pendulum Leg Press (Paused),Strive Leg Extension,Icarian Calf Raise",7,9,11100.54,179.9875,11.288888888888888,27,2,False
+2025-11-11,Tuesday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown,Supinated Wide Grip Pull-up",5,14,21158.75,202.30769230769232,8.541666666666666,42,2,False
+2025-11-12,Wednesday,Limbs 2,"Cable Curl,MedX Leg Curl (Paused),Safety Squat Bar Squat (Paused),Ab Rower,Abductor",5,9,14244.0,195.16666666666663,8.555555555555555,27,1,False
+2025-11-14,Friday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Nautilus Pullover,Supinated Wide Grip Pulldown,Avenger Row,Avenger Lateral Raise",7,11,11172.5,186.8181818181818,6.388888888888889,33,2,False
+2025-11-15,Saturday,Limbs 1,"Preacher Curl,Romanian Deadlift (Paused),MedX Crunch",3,6,9290.0,180.41666666666663,9.0,18,1,False
+2025-11-17,Monday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown,Fly",5,13,19980.25,217.0,8.027272727272727,39,2,False
+2025-11-18,Tuesday,Limbs 2,"Cable Curl,MedX Leg Curl (Paused),Strive Single Leg Extension (Paused),Safety Squat Bar Squat (Paused),Ab Rower",5,9,14844.5,204.05555555555557,8.88888888888889,27,1,False
+2025-11-20,Thursday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Nautilus Pullover (Paused),Supinated Wide Grip Pulldown,Upright Row",5,10,12267.5,154.5,8.95,30,2,False
+2025-11-22,Saturday,Limbs 1,"Preacher Curl,Tricep Pushdown,Hammer Curl,Romanian Deadlift (Paused),Single Leg Curl (Paused),MedX Crunch,Single Leg Pendulum Leg Press (Paused),Face Pull,Icarian Calf Raise",9,14,17773.75,170.35714285714286,8.75,42,2,False
+2025-11-23,Sunday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown,Fly,MedX Lateral Raise,Supinated Wide Grip Pull-up",7,13,20799.5,191.07692307692307,8.291666666666666,39,1,False
+2025-11-25,Tuesday,Limbs 2,"Cable Curl,MedX Leg Curl (Paused),Safety Squat Bar Squat (Paused),Ab Rower,Calf Raise",5,10,12778.0,192.1875,9.0,30,2,False
+2025-11-26,Wednesday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Dorian Pullover,Supinated Wide Grip Pulldown,Avenger Row (Paused),Upright Row",7,11,12281.25,158.4090909090909,8.045454545454545,33,1,False
+2025-11-28,Friday,Limbs 1,"Preacher Curl,Hammer Curl,Romanian Deadlift (Paused)",3,6,3957.5,129.16666666666666,8.666666666666666,18,2,False
+2025-12-01,Monday,Limbs 1,"Preacher Curl,Hammer Curl,Romanian Deadlift,MedX Crunch",4,9,10997.5,149.44444444444446,9.333333333333334,27,3,False
+2025-12-03,Wednesday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown,Fly,Avenger Lateral Raise,Supinated Wide Grip Pull-up,Hammer Strength Low Row",8,16,20055.0,199.53125,7.857142857142857,48,2,False
+2025-12-04,Thursday,Limbs 2,"Leg Curl (Paused),Ab Rower",2,3,4432.0,191.66666666666663,8.0,9,1,False
+2025-12-06,Saturday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip,Nautilus Pullover (Paused),Supinated Wide Grip Pulldown,Preacher Curl,Rope Tricep Pushdown,Upright Row,Neck Curl,Face Pull",10,21,21085.0,141.88095238095238,8.619047619047619,63,2,False
+2025-12-07,Sunday,Legs,"Romanian Deadlift (Paused),Safety Squat Bar Lunge,Cybex Leg Press (Paused),MedX Crunch,Single Leg Curl,Abductor,Icarian Calf Raise,Seated Calf Raise,Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown,Supinated Wide Grip Pull-up,Hammer Strength Low Row,Shrug",15,23,36165.75,220.91304347826087,8.340909090909092,69,1,False
+2025-12-09,Tuesday,Arms 2,"Neck Curl,Rear Delt Fly,Cable Curl",3,6,6209.0,89.66666666666667,12.166666666666666,18,2,False
+2025-12-10,Wednesday,Legs 2,"Avenger Leg Curl (Paused),Strive Single Leg Extension,Safety Squat Bar Squat (Paused),Ab Rower",4,8,12819.0,220.875,7.625,24,1,False
+2025-12-12,Friday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip,Dorian Pullover,Supinated Wide Grip Pulldown,Avenger Row,High Incline Fly",7,12,14490.0,187.70833333333331,6.541666666666667,36,2,False
+2025-12-13,Saturday,Arms,"Preacher Curl,Neck Curl,Hammer Curl,Face Pull,Upright Row",5,8,7985.0,107.5,9.8125,24,1,False
+2025-12-15,Monday,Legs 1,"5PPs/4 DL,Single Leg Curl (Paused),Single Leg Pendulum Leg Press (Paused),Cybex Leg Press,MedX Crunch,Icarian Calf Raise",6,8,16368.0,291.3125,7.375,24,2,False
+2025-12-17,Wednesday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Shoulder Press (Paused),Nautilus Single Arm Pulldown,Hammer Strength Incline Chest Press,Fly,Supinated Wide Grip Pull-up",6,11,15495.0,185.6818181818182,8.4,33,2,False
+2025-12-18,Thursday,Arms 2,"Supported Preacher Curl,Rear Delt Fly,Cable Curl,Avenger Lateral Raise,Neck Curl,Chin-up",6,11,12281.0,106.9090909090909,10.909090909090908,33,1,False
+2025-12-20,Saturday,Legs 2,"Leg Curl (Paused),Strive Single Leg Extension,Safety Squat Bar Squat (Paused),Ab Rower,Barbell Hip Thrust,Calf Raise,Legend Shoulder Press (Paused),Dip (Paused),Dorian Pullover,Supinated Wide Grip Pulldown,High Incline Fly",11,19,21987.5,243.04166666666663,9.166666666666666,57,2,False
+2025-12-21,Sunday,Arms 1,"Preacher Curl,Single Arm,Hammer Curl,Upright Row,Lateral Raise,Neck Curl,Face Pull,Chin-up",8,13,7925.0,77.70833333333333,9.083333333333334,39,1,False
+2025-12-23,Tuesday,Torso 1,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown,Hammer Strength Incline Chest Press,Fly,Supinated Wide Grip Pull-up,Hammer Strength Low Row (Paused)",8,12,15245.0,229.375,7.136363636363637,36,2,False
+2025-12-24,Wednesday,Arms 1,"Neck Curl,Rear Delt Fly,Avenger Lateral Raise,Cable Curl,Reverse Curl",5,8,7950.5,96.6875,11.571428571428571,24,1,False
+2025-12-26,Friday,Legs 1,"Avenger Leg Curl (Paused),Safety Squat Bar Squat (Paused),Ab Rower,Obliques,Calf Raise",5,8,10196.9,238.75,8.0875,24,2,False
+2025-12-27,Saturday,Torso 2,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Dorian Pullover,Supinated Wide Grip Pulldown,Incline Fly,Avenger Row",7,12,14988.75,196.04166666666663,6.681818181818182,36,1,False
+2025-12-29,Monday,Legs 2,Preacher Curl,1,3,1335.0,87.5,8.666666666666666,9,2,False
+2026-01-01,Thursday,Torso 2,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Dorian Pullover,Supinated Wide Grip Pulldown,Incline Fly,Avenger Row",7,12,14988.75,196.04166666666663,6.681818181818182,36,3,False
+2026-01-02,Friday,Arms 2,"Preacher Curl,Hammer Curl,Face Pull,Upright Row,Chin-up",5,9,4270.0,90.27777777777776,8.4375,27,1,False
+2026-01-04,Sunday,Legs 2,"Romanian Deadlift (Paused),Single Leg Curl (Paused),Single Leg Pendulum Leg Press (Paused),MedX Crunch",4,5,9073.5,270.1,6.4,15,2,False
+2026-01-05,Monday,Torso 2,"Leverage Chest Press (Paused),Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Hammer Strength Incline Chest Press,Nautilus Single Arm Pulldown,Hammer Strength Low Row",6,10,21577.5,263.75,7.95,30,1,False
+2026-01-07,Wednesday,Arms 2,"Avenger Lateral Raise,Rear Delt Fly,Cable Curl",3,6,7164.0,104.83333333333331,12.166666666666666,18,2,False
+2026-01-08,Thursday,Legs 2,"Avenger Leg Curl (Paused),Strive Single Leg Extension (Paused),Safety Squat Bar Squat (Paused)",3,4,8223.0,281.25,7.25,12,1,False
+2026-01-09,Friday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Dorian Pullover,Avenger Row",5,9,12582.5,196.66666666666663,7.222222222222222,27,1,False
+2026-01-11,Sunday,Arms 1,"Preacher Curl,Face Pull,Hammer Curl,Chin-up",4,6,3520.0,80.5,9.0,18,2,False
+2026-01-12,Monday,Legs 1,"5PPs+5/3 DLs,Flex Single Leg Curl (Paused),Avenger Crunch",3,5,3641.5,193.1,5.6,15,1,False
+2026-01-14,Wednesday,Torso 2,"Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Nautilus Single Arm Pulldown,Supinated Wide Grip Pull-up,Low Row,Chest Fly,Neck Curl",7,13,15860.0,204.03846153846155,6.307692307692308,39,2,False
+2026-01-15,Thursday,Arms 2,"Avenger Lateral Raise,Rear Delt Fly,Cable Curl,Shrug,Reverse Curl",5,8,7060.0,132.4375,12.714285714285714,24,1,False
+2026-01-16,Friday,Legs,"Strive Single Leg Extension (Paused),Avenger Leg Curl (Paused),Safety Squat Bar Squat",3,5,9761.5,277.5,7.0,15,1,False
+2026-01-18,Sunday,Torso 1,"Legend Shoulder Press (Paused),Dumbbell Bench Press (Paused),Dip (Paused),Dorian Pullover,Supinated Wide Grip Pulldown,Avenger Row",6,11,13441.25,208.4090909090909,6.5,33,2,False
+2026-01-19,Monday,Arms 1,"Preacher Curl,172.⅚ OVH alt,Face Pull,Avenger Lateral Raise,Chin-up",5,10,8185.0,114.72222222222224,8.7,30,1,False
+2026-01-21,Wednesday,Legs 1,"Romanian Deadlift (Paused),Flex Single Leg Curl (Paused),Single Leg Pendulum Leg Press (Paused),Leg Extension,Abductor",5,5,9065.0,341.875,7.8,15,2,False
+2026-01-22,Thursday,Torso 2,"Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Magnum Incline Bench Press,Supinated Wide Grip Pull-up,Nautilus Fly,Hammer Strength Low Row",6,11,12387.5,192.27272727272728,6.666666666666667,33,1,False
+2026-01-23,Friday,Arms 2,"Avenger Lateral Raise (Paused),Rear Delt Fly,Shrug,Cable Curl",4,6,5641.0,144.41666666666666,12.0,18,1,False
+2026-01-25,Sunday,Torso 1,"Leverage Shoulder Press (Paused),Dip (Paused),Dorian Pullover,Supinated Wide Grip Pulldown,Avenger Row,Nautilus Fly",6,12,15144.6,197.7,7.0,36,2,False
+2026-01-26,Monday,Arms 1,"Face Pull,Preacher Curl,Hammer Curl,Neck Curl,Avenger Lateral Raise,Chin-up",6,10,8841.0,112.38888888888889,8.7,30,1,False
+2026-01-28,Wednesday,Legs 1,"Romanian Deadlift (Paused),Flex Single Leg Curl,Icarian Calf Raise,Avenger Crunch",4,7,6910.0,264.2142857142857,4.428571428571429,21,2,False
+2026-01-29,Thursday,Torso 2,"Dumbbell Overhead Press (Paused),Smith Machine Close Grip Bench Press (Paused),Magnum Incline Bench Press,Nautilus Fly,Nautilus Single Arm Pulldown,Hammer Strength Low Row,Shrug",7,14,20087.5,271.7857142857143,6.461538461538462,42,1,False
