@@ -25,12 +25,14 @@ This project applies data mining techniques to analyze 2 years of personal stren
 **Source:** Self-collected personal training logs (not publicly hosted)
 
 **Size:**
+
 - Time span: 2 years of training data
 - Estimated 400–800 workout sessions
 - Estimated 8,000–15,000 individual exercise sets
 - 8–12 attributes per record
 
 **Key Features:**
+
 - Exercise name
 - Weight/Load (plate notation and direct weight)
 - Repetitions and sets
@@ -48,8 +50,8 @@ cs4412-project/
 │   └── proposal.pdf
 ├── src/
 │   └── .gitkeep
-└── notebooks/
-    └── .gitkeep
+    |notebooks/
+        └── .gitkeep
 ```
 
 ## Author
